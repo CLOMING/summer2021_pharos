@@ -1,0 +1,212 @@
+tf_num: 21
+#
+tf_1:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'FL_wheel'
+  x: 2.65
+  y: 0.78
+  z: 0.3
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_2:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'FR_wheel'
+  x: 2.65
+  y: -0.78
+  z: 0.3
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_3:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'FL_wheel2'
+  x: 2.65
+  y: 0.78
+  z: 0.3
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_4:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'FR_wheel2'
+  x: 2.65
+  y: -0.78
+  z: 0.3
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_5:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'RL_wheel'
+  x: 0
+  y: 0.78
+  z: 0.3
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_6:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'RR_wheel'
+  x: 0
+  y: -0.78
+  z: 0.3
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_7:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'roop_cap'
+  x: 1.5
+  y: 0
+  z: 1.5
+  roll: 0
+  pitch: 1.0
+  yaw: 0.0
+#
+tf_8:
+  frame_id: 'roop_cap'
+  child_frame_id: 'top_velodyne'
+  x: 0
+  y: 0
+  z: 0.29
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_9:
+  frame_id: 'roop_cap'
+  child_frame_id: 'top_velodyne2'
+  x: 0
+  y: 0
+  z: 0.29
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_10:
+  frame_id: 'roop_cap'
+  child_frame_id: 'left_velodyne'
+  x: 0
+  y: 0.5
+  z: 0.12
+  roll: -15
+  pitch: -1
+  yaw: -0.7
+#
+tf_11:
+  frame_id: 'roop_cap'
+  child_frame_id: 'left_velodyne2'
+  x: 0
+  y: 0.5
+  z: 0.12
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_12:
+  frame_id: 'roop_cap'
+  child_frame_id: 'right_velodyne'
+  x: 0
+  y: -0.5
+  z: 0.12
+  roll: 15
+  pitch: 0
+  yaw: 0
+#
+tf_13:
+  frame_id: 'roop_cap'
+  child_frame_id: 'right_velodyne2'
+  x: 0
+  y: -0.5
+  z: 0.12
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_14:
+  frame_id: 'roop_cap'
+  child_frame_id: 'front_cam'
+  x: 0.05
+  y: 0
+  z: 0.02
+  roll: -90
+  pitch: 0
+  yaw: -90
+#
+tf_15:
+  frame_id: 'roop_cap'
+  child_frame_id: 'left_cam'
+  x: 0.05
+  y: 0.5
+  z: 0.02
+  roll: -90
+  pitch: 0
+  yaw: -30
+#
+tf_16:
+  frame_id: 'roop_cap'
+  child_frame_id: 'right_cam'
+  x: 0.05
+  y: -0.5
+  z: 0.02
+  roll: -90
+  pitch: 0
+  yaw: -150
+#
+tf_17:
+  frame_id: 'roop_cap'
+  child_frame_id: 'front_cam2'
+  x: -0.5
+  y: 0
+  z: 0.02
+  roll: -92
+  pitch: 0
+  yaw: -87
+#
+tf_18:
+  frame_id: 'roop_cap'
+  child_frame_id: 'os_sensor'
+  x: 0
+  y: 0
+  z: 0.29
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_19:
+  frame_id: 'vehicle_frame'
+  child_frame_id: 'ublox_ant'
+  x: 0.5
+  y: 0
+  z: 1.5
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_20:
+  frame_id: 'roop_cap'
+  child_frame_id: 'imu_link'
+  x: 0.0
+  y: 0
+  z: 0.2
+  roll: 0
+  pitch: 0
+  yaw: 0
+#
+tf_21:
+  frame_id: 'odom'
+  child_frame_id: 'map'
+  x: 1250.0
+  y: -150.0
+  z: 0.0
+  roll: 0
+  pitch: 0
+  yaw: 45
+#

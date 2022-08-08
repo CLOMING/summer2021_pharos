@@ -1,0 +1,13 @@
+<launch>
+
+        <node name="path_planner" pkg="pharos_path_planner" type="path_planner" required="true" output="screen">
+                <remap from="motion_command" to="/vehicle/motion_command" />
+		<remap from="trajectory" to="path_trajectory" />
+		<remap from="planner_velocity" to="planner_speed_limit" />
+		<remap from="vehicle_state" to="/vehicle/state" />
+		<remap from="velocity_limit" to="/action" />
+		<param name="lateral_path_offset" value="1.1" type="double"/>
+                <param name="publish_rate" value="100" />        
+        </node>
+
+</launch>

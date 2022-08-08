@@ -1,0 +1,14 @@
+<launch>
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="0 pharos_utm_odometry tf2_utm_odometry.launch"
+    name="lidar_velodyne" output="screen" />
+
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="2 pharos_map_server pharos_map_server.launch"
+    name="lidar_ouster" output="screen" />
+
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="7 pharos_bringup pg_main.launch"
+    name="imu_xsens" output="screen" />
+
+</launch>

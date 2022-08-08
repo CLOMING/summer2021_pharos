@@ -1,0 +1,23 @@
+<launch>
+        <node name="road_information" pkg="pharos_road_information" type="road_information" required="true" output="screen">
+
+
+		<!-- <param name="road_data_file" value="$(find pharos_road_information)/waypoints/Kut/nare2sanhak_wp2.txt" /> -->
+		<!-- <param name="road_data_file" value="$(find pharos_road_information)/waypoints/Kut/kut_wp/Untitled 1.txt" /> -->
+
+
+		<param name="road_data_file" value="$(find pharos_road_information)/waypoints/waypoints_mission2/merged_wp.txt"/>
+
+
+
+		<!-- <param name="road_data_file" value="$(find pharos_road_information)/waypoints/DaeGu_waypoints_map_used/merged_wp.txt" /> -->
+
+		<!-- <param name="road_data_file" value="$(find pharos_road_information)/waypoints/Kut/sanhak2nare_wp.txt" /> -->
+
+		<param name="reverse_waypoint" value="false" type="bool"/>
+
+        </node>
+
+    <!-- <include file="$(find pharos_trajectory_observer)/launch/trajectory_observer.launch" /> -->
+
+</launch>

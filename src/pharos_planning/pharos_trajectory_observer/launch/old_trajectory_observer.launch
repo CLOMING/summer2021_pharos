@@ -1,0 +1,9 @@
+<launch>
+        <node name="trajectory_observer_old" pkg="pharos_trajectory_observer" type="trajectory_observer_old" required="true" output="screen">
+
+			<param name="publish_rate" value="100" />
+			<param name="reference_path_following" value="true" />
+
+        </node>
+
+</launch>

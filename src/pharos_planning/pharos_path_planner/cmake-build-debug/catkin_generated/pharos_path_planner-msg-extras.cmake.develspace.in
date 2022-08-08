@@ -1,0 +1,2 @@
+set(pharos_path_planner_MESSAGE_FILES "/home/pharos-main/i30_ws/src/pharos/pharos_path_planner/msg/Position.msg;/home/pharos-main/i30_ws/src/pharos/pharos_path_planner/msg/RoadInfo.msg;/home/pharos-main/i30_ws/src/pharos/pharos_path_planner/msg/LaneInfo.msg;/home/pharos-main/i30_ws/src/pharos/pharos_path_planner/msg/ReferencePath.msg;/home/pharos-main/i30_ws/src/pharos/pharos_path_planner/msg/ReferencePath2.msg")
+set(pharos_path_planner_SERVICE_FILES "")

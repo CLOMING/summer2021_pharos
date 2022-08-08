@@ -1,0 +1,12 @@
+<launch>
+
+	<node name="pharos_mapping" pkg="pharos_mapping" type="mapping" required="true" output="screen">
+  
+		<param name="parent_frame_id" value="/base_link" />
+		<param name="bumper_frame_id" value="/laser/bumper" />
+		<param name="roof_left_frame_id" value="/laser/roof_left" />
+		<param name="roof_right_frame_id" value="/laser/roof_right" />
+		<param name="rear_frame_id" value="/laser/rear" />
+	</node>
+
+</launch>

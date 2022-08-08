@@ -1,0 +1,5 @@
+<launch>
+
+	<node name="pharos_v2x" pkg="pharos_v2x" type="pharos_v2x_ros_to_obu" required="true" output="screen"/>
+
+</launch>

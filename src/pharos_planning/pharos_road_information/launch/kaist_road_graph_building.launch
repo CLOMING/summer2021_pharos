@@ -1,0 +1,22 @@
+<launch>
+        <node name="road_graph_building_node" pkg="pharos_road_information" type="road_graph_building_node" required="true" output="screen">
+
+
+		<!--param name="waypoint_file_directory" value="$(find pharos_road_information)/waypoints/KOREATECH2/" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/KOREATECH2_road_config.yaml" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/KOREATECH2_lane_config.yaml" /-->
+
+		<param name="waypoint_file_directory" value="$(find pharos_road_information)/waypoints/KAIST/" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/KAIST_road_config.yaml" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/KAIST_lane_config.yaml" />
+
+		<!-- param name="waypoint_file_directory" value="$(find pharos_road_information)/waypoints/Test/" /-->
+
+		<!--param name="waypoint_file_directory" value="$(find pharos_road_information)/waypoints/5_Sandan/" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/5sandan_road_config.yaml" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/5sandan_lane_config.yaml" /-->
+
+
+        </node>
+
+</launch>

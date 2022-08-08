@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pharos_obstacle_mapping
+Description: Description of pharos_obstacle_mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

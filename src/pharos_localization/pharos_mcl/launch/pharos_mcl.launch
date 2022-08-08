@@ -1,0 +1,16 @@
+<launch>
+	<arg name="vertical" default="0.3" />
+	<arg name="use_cude" default="true" />
+	
+	<node name="pharos_mcl_node" pkg="pharos_mcl" type="pharos_mcl_node" output="screen">
+
+		<param name="use_cuda" value="$(arg use_cude)" />
+		<param name="use_roadinfo" value="true" />
+		<param name="use_verticalinfo" value="true" />
+
+		<param name="num_particle" value="400" />
+		<param name="num_gps_particle" value="100" />
+		<param name="vertical_gain" value="$(arg vertical)" />
+
+	</node>
+</launch>

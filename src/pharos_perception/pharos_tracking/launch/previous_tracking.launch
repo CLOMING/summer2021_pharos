@@ -1,0 +1,20 @@
+<launch>
+
+	
+	<node pkg="pharos_tracking"         type="tracking"     name="tracking" output="screen">
+		<param name="dmin_deadline" value="3.0" />
+		<param name="maintaincount_deadline" value="3.0" />
+		<param name="step_deadline" value="20" />
+
+
+	</node>
+
+	<node pkg="pharos_tracking"         type="v2v"     name="v2v" output="screen">
+		
+	</node>
+
+	<node pkg="pharos_sensorfusion"         type="odom_to_camera2"     name="odom_to_camera2">
+		
+	</node>
+
+</launch>

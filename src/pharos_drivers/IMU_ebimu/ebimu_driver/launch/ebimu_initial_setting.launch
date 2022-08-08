@@ -1,0 +1,10 @@
+
+<!DOCTYPE launch [ <!ENTITY hz "100"> ]>
+<!-- I declared hz value! Do you feel compatable? -->
+<launch>
+
+	<node name="setting_for_imuReset" pkg="ebimu_driver" type="setting_for_imuReset" output="screen">
+	
+	</node>
+	
+</launch>

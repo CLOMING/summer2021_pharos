@@ -1,0 +1,5 @@
+<launch>
+        <node name="obstacle_mapping_node" pkg="pharos_obstacle_mapping" type="obstacle_mapping_node" required="true" output="screen">
+
+        </node>
+</launch>

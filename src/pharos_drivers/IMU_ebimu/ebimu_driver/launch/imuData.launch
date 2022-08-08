@@ -1,0 +1,28 @@
+
+<!DOCTYPE launch [ <!ENTITY hz "100"> ]>
+<!-- I declared hz value! Do you feel compatable? -->
+<launch>
+
+	<group ns="ebimu">
+		<node name="serial_example_node" pkg="ebimu_driver" type="serial_example_node" output="screen">
+
+
+		<param name="setPort" value="/dev/ttyUSB0" />
+		<param name="setBaudrate" value="115200" />
+		<param name="setHz" value= "&hz;" />
+		
+		</node>
+
+
+		<node pkg="ebimu_driver"         type="imuStringToFloat64"     name="imuStringToFloat64" output="screen">
+
+		<param name="isRad" value="true" />
+		<param name="isRadPerSec" value="true" />
+		<param name="setHz" value= "&hz;" />
+
+		</node> 
+	</group>
+
+	<include file="$(find rpy_ekf)/launch/rpy_ekf.launch" />
+	
+</launch>

@@ -1,0 +1,71 @@
+number_of_roads: 10
+#
+road_1:
+  road_number: 1
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_2:
+  road_number: 2
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_3:
+  road_number: 3
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_4:
+  road_number: 4
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_5:
+  road_number: 5
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_6:
+  road_number: 6
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_7:
+  road_number: 7
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_8:
+  road_number: 8
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_9:
+  road_number: 9
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0
+#
+road_10:
+  road_number: 10
+  road_type: 2
+  action: 2
+  speed_limit: 37
+  distance: 0

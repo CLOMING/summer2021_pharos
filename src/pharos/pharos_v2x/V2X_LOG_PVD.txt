@@ -1,0 +1,3914 @@
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 33
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 33
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 33
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 33
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 33
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 33
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 33
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 33
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 34
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 34
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 34
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 34
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 34
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 34
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 34
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 34
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 34
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 34
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 35
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 35
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 35
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 35
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 35
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 35
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 35
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 35
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 35
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 35
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 36
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 36
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 36
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 36
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 36
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 36
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 36
+	 Long: 0
+	 lat: 0
+	 elevation: 0
+	 heading: 0
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 36
+		 Long: 0
+		 lat: 0
+		 elevation: 0
+		 heading: 0
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 36
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 36
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 37
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 37
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 37
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 37
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 37
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 37
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 37
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 37
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 37
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 37
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 38
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 38
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 38
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 38
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 38
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 38
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 38
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 38
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 38
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 38
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 39
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 39
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 39
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 39
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 39
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 39
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 39
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 39
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 39
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 39
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 40
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 40
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 40
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 40
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 40
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 40
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 40
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 40
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 40
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 40
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 41
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 41
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 41
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 41
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 41
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 41
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 41
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 41
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 41
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 41
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 42
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 42
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 42
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 42
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 42
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 42
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 42
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 42
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 42
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 42
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 43
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 43
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 43
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 43
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 43
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 43
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 43
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 43
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 43
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 43
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 44
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 44
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 44
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 44
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 44
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 44
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 44
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 44
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 44
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 44
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 45
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 45
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 45
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 45
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 45
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 45
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 45
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 45
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 45
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 45
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 46
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 46
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 46
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 46
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 46
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 46
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 46
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 46
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 46
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 46
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 47
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 47
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 47
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 47
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 47
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 47
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 47
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 47
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 47
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 47
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 48
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 48
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 48
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 48
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 48
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 48
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 48
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 48
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 48
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 48
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 49
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 49
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 49
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 49
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 49
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 49
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 49
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 49
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 49
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 49
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 50
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 50
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 50
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 50
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 50
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 50
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 50
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 50
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 50
+	 Long: 1284017585
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 50
+		 Long: 1284017585
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 51
+	 Long: 1284017586
+	 lat: 356472036
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 51
+		 Long: 1284017586
+		 lat: 356472036
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 51
+	 Long: 1284017585
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 51
+		 Long: 1284017585
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 51
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 51
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 51
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 51
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 51
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 51
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 52
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 52
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 52
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 52
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 52
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 52
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 52
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 52
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 52
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 52
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 53
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 53
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 53
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 53
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 53
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 53
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================
+============================================
+probeID
+	 id
+		 entityID: 0xce246709
+startVector
+	 utcTime
+		 year: 2022
+		 month: 6
+		 day: 27
+		 hour: 16
+		 minute: 13
+		 second: 53
+	 Long: 1284017586
+	 lat: 356472037
+	 elevation: 480
+	 heading: 18019
+	 speed
+		 speed: 0
+		 transmisson: 0
+vehicleType
+	 hpmsType: 4
+snapshots[0]
+	 thePosition
+		 utcTime
+			 year: 2022
+			 month: 6
+			 day: 27
+			 hour: 16
+			 minute: 13
+			 second: 53
+		 Long: 1284017586
+		 lat: 356472037
+		 elevation: 480
+		 heading: 18019
+		 speed
+			 speed: 0
+			 transmisson: 0
+============================================

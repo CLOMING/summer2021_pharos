@@ -1,0 +1,10 @@
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{serial}=="AU04MY9U", SYMLINK+="SBG/USB", MODE="666"
+
+# Check Port Number
+# lsusb
+# Check Device ID
+# udevadm info -a -n /dev/ttyUSB0 | grep -E "idVendor|serial|idProduct"
+# Edit /etc/udev/rules.d/{priority}-{name}.rules and Update
+# sudo udevadm control --reload-rules
+# Check Symbolic link
+# sudo ls -l /dev/ttyUSB0

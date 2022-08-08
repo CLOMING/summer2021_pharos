@@ -1,0 +1,18 @@
+<launch>
+
+	<!--arg name="map_file" default="$(find pharos_mapping)/maps/speedium_global_map_40cm.yaml"/-->
+	<arg name="map_file" default="$(find pharos_mapping)/maps/speedium_global_map_20cm.yaml"/>
+	<node name="map_server" pkg="pharos_map_server" type="pharos_map_server" args="$(arg map_file)" output="screen" />
+
+
+	<node name="pharos_time_accum_map_node" pkg="pharos_mapping" type="time_accum_map" required="true" output="screen">
+  		<param name="decay_time" type="double" value="3.0"/>
+		<param name="parent_frame_id" value="/base_footprint" />
+		<param name="bumper_frame_id" value="/laser/bumper" />
+		<param name="roof_left_frame_id" value="/laser/roof_left" />
+		<param name="roof_right_frame_id" value="/laser/roof_right" />
+		<param name="rear_frame_id" value="/laser/rear" />
+	</node>
+
+
+</launch>

@@ -1,0 +1,42 @@
+<launch>
+	<arg name="/date" default="" />
+	<arg name="bag_name" />
+	<!-- <node pkg="rosbag" type="record" name="rosbag_raw" output="screen" required="true"
+	args="-O /media/pharos/pharos_bagfile/bagfile/$(arg bag_name)_raw.bag -e -->
+	<node pkg="rosbag" type="record" name="rosbag_raw" output="screen" required="true"
+	args="-O /media/pharos-main/Pharos_Package/bagfile$(arg date)/$(arg bag_name).bag -e 
+
+	/vehicle/state2016
+	/vehicle/lookahead_dist
+
+	/fix
+	/diagnostics
+	
+	/bestpos
+	/inspva
+	/corrimudata
+
+	/ublox/fix
+	/ublox/navpvt
+
+	/vlp_t/velodyne_packets
+	/vlp_l/velodyne_packets
+	/vlp_r/velodyne_packets
+
+	/ebimu/Data
+	/ebimu/read
+
+	/wave/map_message
+	/wave/tim_message
+	/wave/rtcm_message
+	/wave/bsm_message
+	/wave/spat_message
+
+	" > 
+	</node>
+<!-- 	<node pkg="rosbag" type="record" name="rosbag_entire" output="screen" required="true"
+	args="-a -O $(find pharos_data_logger)/bags/entire_data/$(arg bag_name)_entire.bag">
+	</node> -->
+</launch>
+
+<!--  roslaunch pharos_data_logger record.launch bag_name:=20160720_1 -->

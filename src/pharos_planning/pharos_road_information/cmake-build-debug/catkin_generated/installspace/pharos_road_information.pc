@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pharos_road_information
+Description: Description of pharos_road_information
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: 

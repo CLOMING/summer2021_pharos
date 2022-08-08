@@ -1,0 +1,94 @@
+<?xml version="1.1"?>
+<launch>
+<<<<<<< HEAD
+
+    <node name="ublox_nmea" pkg="ublox_utils" type="ublox2nmea" output="screen"/>
+
+
+    <node name="rtcm_transform" pkg="topic_tools" type="transform" output="screen"
+          args="ublox/ntrip_client/rtcm /ublox/rtcm rtcm_msgs/Message 'rtcm_msgs.msg.Message(header=m.header, message=m.data)' --import rtcm_msgs --wait-for-start"/>
+
+    <!-- NTRIP -->
+    <arg name="use_ntrip" default="false"/>
+    <arg name="navpvt_topic" doc="The incoming navpvt topic." default="/ublox/navpvt"/>
+    <arg name="nmea_topic" doc="The outgoing nmea topic." default="/ntrip_client/nmea"/>
+
+    <arg name="ntrip_host" default="RTS2.ngii.go.kr" />
+    <arg name="ntrip_port" default="2101" />
+    <arg name="ntrip_mountpoint" default="VRS-RTCM31" />
+    <arg name="ntrip_version" default="" />
+    <arg name="ntrip_authentificate" default="true" />
+    <arg name="ntrip_username" default="irislab_01"/>
+    <arg name="ntrip_password" default="ngii"/>
+    <arg name="clear_params" default="true"/>
+    <arg name="output" default="screen"/>
+    <arg name="respawn" default="true"/>
+    <arg name="respawn_delay" default="30"/>
+    <arg name="frame_id_position_receiver" default="gnss"/>
+    <!-- This node relays the current NMEA $GPGGA position to the NTRIP caster and returns the RTCM corrections -->
+    <node name="ublox_ntrip" pkg="ublox_ntrip" type="ntrip_ros.py"
+=======
+    <!-- General settings -->
+    <arg name="output" default="screen"/>
+    <arg name="respawn" default="true"/>
+    <arg name="respawn_delay" default="30"/>
+    <arg name="clear_params" default="true"/>
+
+    <!-- u-blox position receiver -->
+    <arg name="frame_id_position_receiver" default="gnss"/>
+
+    <arg name="navpvt_topic" doc="The incoming navpvt topic." default="/ublox/navpvt"/>
+    <arg name="nmea_topic" doc="The outgoing nmea topic." default="/ublox/ntrip_client/nmea"/>
+
+    <arg name="ntrip_host" default="RTS2.ngii.go.kr" />
+    <arg name="ntrip_port" default="2101" />
+    <arg name="ntrip_mountpoint" default="VRS-RTCM32" />
+    <arg name="ntrip_version" default="" />
+    <arg name="ntrip_authentificate" default="true" />
+    <arg name="ntrip_username" default="iismn"/>
+    <arg name="ntrip_password" default="ngii"/>
+
+    <node name="ublox2nmea" pkg="ublox_utils" type="ublox2nmea"
+          output="$(arg output)"
+          clear_params="$(arg clear_params)"
+          respawn="$(arg respawn)"
+          respawn_delay="$(arg respawn_delay)">
+        <remap from="/navpvt" to="$(arg navpvt_topic)"/>
+        <remap from="/nmea" to="$(arg nmea_topic)"/>
+    </node>
+
+    <!-- This node relays the current NMEA $GPGGA position to the NTRIP caster and returns the RTCM corrections -->
+    <node name="ntrip_client" pkg="ublox_ntrip" type="ntrip_ros.py"
+>>>>>>> d9a2a00c73a0277778a5ef1cee0000ce371fb272
+          output="$(arg output)"
+          clear_params="$(arg clear_params)"
+          respawn="$(arg respawn)"
+          respawn_delay="$(arg respawn_delay)">
+        <param name="host"       value="$(arg ntrip_host)" />
+        <param name="port"       value="$(arg ntrip_port)" />
+        <param name="mountpoint" value="$(arg ntrip_mountpoint)" />
+
+        <param name="ntrip_version" value="$(arg ntrip_version)" />
+
+        <param name="authenticate" value="$(arg ntrip_authentificate)" />
+        <param name="username" value="$(arg ntrip_username)" />
+        <param name="password" value="$(arg ntrip_password)" />
+
+        <param name="rtcm_frame_id" value="$(arg frame_id_position_receiver)" />
+
+        <remap from="/rtcm" to="/ublox/ntrip_client/rtcm" />
+<<<<<<< HEAD
+        <remap from="/nmea" to="/nmea" />
+    </node>
+=======
+        <remap from="/nmea" to="$(arg nmea_topic)" />
+    </node>
+
+    <!-- This node transforms mavros/rtcm to rtcm/Message -->
+    <node name="rtcm_transform" pkg="topic_tools" type="transform" output="screen"
+          args="/ublox/ntrip_client/rtcm /ublox/rtcm rtcm_msgs/Message 'rtcm_msgs.msg.Message(header=m.header, message=m.data)' --import rtcm_msgs --wait-for-start"/>
+
+
+
+>>>>>>> d9a2a00c73a0277778a5ef1cee0000ce371fb272
+</launch>

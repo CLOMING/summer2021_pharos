@@ -1,0 +1,5 @@
+<launch>
+        <node name="dec" pkg="wave_pkg" type="dec" required="true" output="screen">
+
+        </node>
+</launch>

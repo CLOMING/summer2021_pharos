@@ -1,0 +1,16 @@
+<launch>
+	<arg name="project" default="pharos_perception"/>
+
+	<node pkg="$(arg project)" name="$(arg project)_lidar_mapFilter" type="$(arg project)_lidar_mapFilter" output="screen">
+      	<!-- set sub/publishing topic name -->
+		<param name="sub_ObstMap_Param" value="/drivable_map_perception_map" />
+
+      	<param name="sub_obstacle_Param" value="/lidar_pcl/obstacle/initialPCL" />
+		<param name="sub_surface_Param" value="/lidar_pcl/surface/initialPCL" />
+
+      	<param name="pub_obstacleFilt_Param" value="/lidar_pcl/obstacle/filteredPCL" />
+		<param name="pub_surfaceFilt_Param" value="/lidar_pcl/surface/filteredPCL" />
+
+  </node>
+
+</launch>

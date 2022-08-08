@@ -1,0 +1,17 @@
+<launch>
+	<arg name="latency_" default="0.2" />
+	<node name="vehicle" pkg="pharos_vehicle" type="crio_comm_node" required="true" output="screen">
+		<rosparam command="load" file="$(find pharos_vehicle)/config/kia_sorento.yaml" />
+		<param name="fixed_frame_id" value="odom" />
+		<param name="crio/ip" value="192.168.1.25" />
+		<param name="publish_rate" value="100" />
+		<param name="publish_odom_tf" value="false" />
+		<param name="parent_frame_id" value="/odom" />
+		<param name="vehicle_odom_frame_id" value="/base_vehicle_odom" />
+		<param name="teleLatency" value="$(arg latency_)" />
+		<remap from="motion_command" to="~/motion_command" />
+		<remap from="odometry2016" to="~/odometry2016" />
+		<remap from="state2016" to="~/state2016" />
+		<remap from="lookahead_dist" to="~/lookahead_dist" />
+	</node>
+</launch>

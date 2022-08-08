@@ -1,0 +1,10 @@
+<launch>
+        <node name="road_graph_building_node" pkg="pharos_road_information" type="road_graph_building_node" required="true" output="screen">
+
+		<param name="waypoint_file_directory" value="$(find pharos_road_information)/waypoints/k2k_m4/" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/Kcity_road_config.yaml" />
+          	<rosparam command="load" file="$(find pharos_road_information)/config/Kcity_lane_config.yaml" />
+
+        </node> 
+    
+</launch>

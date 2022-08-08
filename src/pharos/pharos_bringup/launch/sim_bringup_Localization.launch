@@ -1,0 +1,14 @@
+<launch>
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="0 pharos_ekf ublox_ekf.launch bag:=true"
+    name="lidar_velodyne" output="screen" />
+
+  <!-- <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="2 ouster_ros pharos_ouster.launch"
+    name="lidar_ouster" output="screen" />
+
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="3 xsens_mti_driver pharos_imu.launch"
+    name="imu_xsens" output="screen" /> -->
+
+</launch>

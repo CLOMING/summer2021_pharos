@@ -1,0 +1,25 @@
+<launch>
+	<arg name="frame" default="ublox_ekf"/>
+	<arg name="fix" default="true"/>
+	<arg name="fix_x" default="352300.0"/>
+	<arg name="fix_y" default="4025400.0"/>
+	<arg name="ant_offset_x" default="-0.3"/>
+	<arg name="ant_offset_y" default="0.5"/>
+
+	<param name="frame_id" value="odom" />
+	<param name="ublox_frame_id" value="ublox_gps" />
+	<param name="vehicle_frame_id" value="$(arg frame)" />
+
+	<node name="pharos_utm_odometry_node" pkg="pharos_utm_odometry" type="pharos_utm_odometry_node" output="screen">
+		<param name="relative_gps" value="true" />
+		<param name="relative_gps_fix" value="$(arg fix)" />
+		<param name="fix_origin_x" value="$(arg fix_x)" />
+		<param name="fix_origin_y" value="$(arg fix_y)" />
+		<param name="ant_offset_x" value="$(arg ant_offset_x)" />
+		<param name="ant_offset_y" value="$(arg ant_offset_y)" />
+		<!-- <param name="fix_origin_z" value="0.0" /> -->
+	</node>
+	
+	<include file="$(find pharos_tf2)/launch/kaist_tf2.launch"/>
+	
+</launch>

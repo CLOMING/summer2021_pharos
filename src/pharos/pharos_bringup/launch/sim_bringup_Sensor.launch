@@ -1,0 +1,10 @@
+<launch>
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="0 velodyne_pointcloud pharos_velodyne.launch"
+    name="lidar_velodyne" output="screen" />
+
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="2 ouster_ros pharos_ouster.launch replay:=true"
+    name="lidar_ouster" output="screen" />
+
+</launch>

@@ -1,0 +1,15 @@
+<launch>
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="0 pharos_perception LiDAR_Fusing.launch"
+    name="lidar_velodyne" output="screen" />
+
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="2 pharos_perception LiDAR_Map_Filter.launch"
+    name="lidar_ouster" output="screen" />
+
+  <node pkg="timed_roslaunch" type="timed_roslaunch.sh"
+    args="3 pharos_perception LiDAR_Obstacle.launch"
+    name="imu_xsens" output="screen" />
+
+</launch>
+

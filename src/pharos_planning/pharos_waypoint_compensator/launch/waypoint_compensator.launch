@@ -1,0 +1,5 @@
+<launch>
+        <node name="waypoint_compensator" pkg="pharos_waypoint_compensator" type="waypoint_compensator" required="true" output="screen">
+               
+        </node>
+</launch>

@@ -1,0 +1,17 @@
+<launch>
+	<arg name="dcc_stop" default="10" />
+	<arg name="dcc_start" default="50" />
+        <node name="speed_planner" pkg="pharos_speed_planner" type="speed_planner" required="true" output="screen">
+                <param name="publish_rate" value="100" />
+
+		<param name="max_speed_limit" value="20.0" type="double"/> <!-- km/h -->
+		<param name="min_speed_limit" value="0.0" type="double"/> <!-- km/h -->
+		<param name="speed_scale" value="1.0" type="double"/>
+		<param name="longitudinal_acc" value="0.4" type="double"/> <!-- [m/s^2] * G-->
+		<param name="lateral_acc" value="0.15" type="double"/>
+		<param name="dcc_stop" value="$(arg dcc_stop)" />
+		<param name="dcc_start" value="$(arg dcc_start)" />
+		<!-- <param name="lateral_acc" value="0.07" type="double"/> -->
+
+        </node>
+</launch>

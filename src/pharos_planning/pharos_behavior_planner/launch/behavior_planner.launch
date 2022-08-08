@@ -1,0 +1,8 @@
+<launch>
+        <node name="behavior_planner_node" pkg="pharos_behavior_planner" type="behavior_planner_node" required="true" output="screen">
+
+          	<rosparam command="load" file="$(find pharos_behavior_planner)/config/Kcity_intersection_config.yaml" />
+			<!-- <rosparam command="load" file="$(find pharos_behavior_planner)/config/competition_pg_intersection_config.yaml" /> -->
+        </node> 
+    
+</launch>

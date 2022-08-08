@@ -1,0 +1,403 @@
+number_of_lanes: 67
+#
+lane_1:
+  road_id: 3
+  lane_id: 1
+  intersection_id: 10170
+  traffic_light_id: 3
+#
+lane_2:
+  road_id: 5
+  lane_id: 1
+  intersection_id: 10170
+  traffic_light_id: 3
+#
+lane_3:
+  road_id: 6
+  lane_id: 1
+  intersection_id: 10170
+  traffic_light_id: 3
+#
+lane_4:
+  road_id: 8
+  lane_id: 1
+  intersection_id: 10180
+  traffic_light_id: 2
+#
+lane_5:
+  road_id: 9
+  lane_id: 1
+  intersection_id: 10180
+  traffic_light_id: 2
+#
+lane_6:
+  road_id: 13
+  lane_id: 1
+  intersection_id: 10190
+  traffic_light_id: 3
+#
+lane_7:
+  road_id: 14
+  lane_id: 1
+  intersection_id: 10190
+  traffic_light_id: 3
+#
+lane_8:
+  road_id: 16
+  lane_id: 1
+  intersection_id: 10200
+  traffic_light_id: 2
+#
+lane_9:
+  road_id: 17
+  lane_id: 1
+  intersection_id: 10200
+  traffic_light_id: 2
+#
+lane_10:
+  road_id: 19
+  lane_id: 1
+  intersection_id: 10210
+  traffic_light_id: 2
+#
+lane_11:
+  road_id: 20
+  lane_id: 1
+  intersection_id: 10210
+  traffic_light_id: 2
+#
+lane_12:
+  road_id: 22
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 3
+#
+lane_13:
+  road_id: 23
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 3
+#
+lane_14:
+  road_id: 24
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 3
+#
+lane_15:
+  road_id: 30
+  lane_id: 1
+  intersection_id: 10010
+  traffic_light_id: 3
+#
+lane_16:
+  road_id: 32
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 2
+#
+lane_17:
+  road_id: 33
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 2
+#
+lane_18:
+  road_id: 34
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 2
+#
+lane_19:
+  road_id: 38
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 2
+#
+lane_20:
+  road_id: 39
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 2
+#
+lane_21:
+  road_id: 40
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 2
+#
+lane_22:
+  road_id: 42
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 2
+#
+lane_23:
+  road_id: 43
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 2
+#
+lane_24:
+  road_id: 44
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 2
+#
+lane_25:
+  road_id: 46
+  lane_id: 1
+  intersection_id: 10050
+  traffic_light_id: 1
+#
+lane_26:
+  road_id: 47
+  lane_id: 1
+  intersection_id: 10050
+  traffic_light_id: 1
+#
+lane_27:
+  road_id: 52
+  lane_id: 1
+  intersection_id: 10160
+  traffic_light_id: 1
+#
+lane_28:
+  road_id: 54
+  lane_id: 1
+  intersection_id: 10160
+  traffic_light_id: 1
+#
+lane_29:
+  road_id: 55
+  lane_id: 1
+  intersection_id: 10160
+  traffic_light_id: 1
+#
+lane_30:
+  road_id: 56
+  lane_id: 1
+  intersection_id: 10160
+  traffic_light_id: 1
+#
+lane_31:
+  road_id: 58
+  lane_id: 1
+  intersection_id: 10140
+  traffic_light_id: 1
+#
+lane_32:
+  road_id: 60
+  lane_id: 1
+  intersection_id: 10160
+  traffic_light_id: 2
+#
+lane_33:
+  road_id: 61
+  lane_id: 1
+  intersection_id: 10160
+  traffic_light_id: 2
+#
+lane_34:
+  road_id: 66
+  lane_id: 1
+  intersection_id: 10050
+  traffic_light_id: 2
+#
+lane_35:
+  road_id: 67
+  lane_id: 1
+  intersection_id: 10050
+  traffic_light_id: 2
+#
+lane_36:
+  road_id: 69
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 3
+#
+lane_37:
+  road_id: 70
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 3
+#
+lane_38:
+  road_id: 71
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 3
+#
+lane_39:
+  road_id: 73
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 3
+#
+lane_40:
+  road_id: 74
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 3
+#
+lane_41:
+  road_id: 75
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 3
+#
+lane_42:
+  road_id: 79
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 4
+#
+lane_43:
+  road_id: 80
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 4
+#
+lane_44:
+  road_id: 81
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 4
+#
+lane_45:
+  road_id: 83
+  lane_id: 1
+  intersection_id: 10010
+  traffic_light_id: 4
+#
+lane_46:
+  road_id: 89
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 1
+#
+lane_47:
+  road_id: 90
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 1
+#
+lane_48:
+  road_id: 91
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 1
+#
+lane_49:
+  road_id: 93
+  lane_id: 1
+  intersection_id: 10210
+  traffic_light_id: 1
+#
+lane_50:
+  road_id: 94
+  lane_id: 1
+  intersection_id: 10210
+  traffic_light_id: 1
+#
+lane_51:
+  road_id: 96
+  lane_id: 1
+  intersection_id: 10200
+  traffic_light_id: 1
+#
+lane_52:
+  road_id: 97
+  lane_id: 1
+  intersection_id: 10200
+  traffic_light_id: 1
+#
+lane_53:
+  road_id: 99
+  lane_id: 1
+  intersection_id: 10190
+  traffic_light_id: 1
+#
+lane_54:
+  road_id: 100
+  lane_id: 1
+  intersection_id: 10190
+  traffic_light_id: 1
+#
+lane_55:
+  road_id: 104
+  lane_id: 1
+  intersection_id: 10180
+  traffic_light_id: 1
+#
+lane_56:
+  road_id: 105
+  lane_id: 1
+  intersection_id: 10180
+  traffic_light_id: 1
+#
+lane_57:
+  road_id: 107
+  lane_id: 1
+  intersection_id: 10170
+  traffic_light_id: 1
+#
+lane_58:
+  road_id: 108
+  lane_id: 1
+  intersection_id: 10170
+  traffic_light_id: 1
+#
+lane_59:
+  road_id: 111
+  lane_id: 1
+  intersection_id: 10140
+  traffic_light_id: 2
+#
+lane_60:
+  road_id: 116
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 4
+#
+lane_61:
+  road_id: 117
+  lane_id: 1
+  intersection_id: 10220
+  traffic_light_id: 4
+#
+lane_62:
+  road_id: 122
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 3
+#
+lane_63:
+  road_id: 123
+  lane_id: 1
+  intersection_id: 10020
+  traffic_light_id: 3
+#
+lane_64:
+  road_id: 131
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 1
+#
+lane_65:
+  road_id: 132
+  lane_id: 1
+  intersection_id: 10040
+  traffic_light_id: 1
+#
+lane_66:
+  road_id: 134
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 1
+#
+lane_67:
+  road_id: 135
+  lane_id: 1
+  intersection_id: 10030
+  traffic_light_id: 1

@@ -1,0 +1,10 @@
+<launch>
+
+	
+	<node pkg="pharos_tracking"         type="tracking_jiwan"     name="tracking_jiwan" output="screen">
+		
+		<param name="odomTopic" value="/odom/vehicle" />
+
+	</node>
+
+</launch>

@@ -1,0 +1,21 @@
+<launch>
+	<arg name="objectbox_dist_threshold" default="15"/>
+	<arg name="lpf_alpha" default="1"/>
+	<node name="local_path_planner" pkg="pharos_path_planner" type="local_path_planner" required="true" output="screen">
+		<param name="planning_time" type="double" value="3"/>   <!-- 내가 수정한 치수 -->
+		<param name="planning_dt" type="double" value="0.2"/>
+		<param name="num_of_candidate_paths" type="int" value="5"/>  <!-- num of candidate Path == 5 , offset between paths was 0.3 planning time was 5  -->
+		<param name="offset_between_paths" type="double" value="0.3"/>
+
+		<param name="waiting_time_for_force_avoiding" type="double" value="2.0"/>
+		<param name="Re_Trial" type="int" value="1"/>
+		<param name="objectbox_dist_threshold" value="$(arg objectbox_dist_threshold)"/>
+		<param name="lpf_alpha" value="$(arg lpf_alpha)"/>
+
+		<!-- where is waiting_time_for_force_avoiding  << this parameter ?? -->
+	</node>
+
+	<!-- Obstacle Mapping -->
+	<include file="$(find pharos_obstacle_mapping)/launch/time_accumulation.launch" />
+	<!-- <include file="$(find pharos_trajectory_observer)/launch/trajectory_observer.launch" /> -->
+</launch>

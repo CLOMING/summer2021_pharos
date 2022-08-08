@@ -1,0 +1,17 @@
+<launch>
+	<!-- <include file="$(find pharos_localization)/launch/utm_odometry.launch" /> -->
+	<arg name="relative_gps" default="true" />
+	<arg name="publish_odom_tf" default="false" />
+
+	<node name="gps_ekf" pkg="pharos_ekf" type="ublox_ekf.py" output="screen">
+		<param name="vehicle_state_topic" value="/CAN_Gateway" />
+		<param name="frame_id" value="odom" />
+		<param name="child_frame_id" value="ekf" />
+		<param name="gps_odom_topic" value="/odom/ublox" />
+
+		<param name="relative_gps" value="$(arg relative_gps)" />
+		<param name="publish_odom_tf" value="$(arg publish_odom_tf)" />
+	</node>
+	<!-- <node name="node_lane_ekf" pkg="pharos_localization" type="lane_ekf.py" output="screen" />	 -->
+
+</launch>

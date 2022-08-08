@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/global_path_planner.cpp" />
+    <bookmark url="file://$PROJECT_DIR$/src/local_path_planner.cpp" line="850" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="pharos_path_planner" targetName="pharos_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="pharos_path_planner" targetName="bond_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="pcl_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="bond_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="roscpp_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="_pharos_path_planner_generate_messages_check_deps_Position" />
+      <config projectName="pharos_path_planner" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="bond_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="bond_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="nodelet_topic_tools_gencfg" />
+      <config projectName="pharos_path_planner" targetName="run_tests" />
+      <config projectName="pharos_path_planner" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="tf_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="pharos_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_geneus" />
+      <config projectName="pharos_path_planner" targetName="doxygen" />
+      <config projectName="pharos_path_planner" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="_pharos_path_planner_generate_messages_check_deps_ReferencePath2" />
+      <config projectName="pharos_path_planner" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="_pharos_path_planner_generate_messages_check_deps_ReferencePath" />
+      <config projectName="pharos_path_planner" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="pharos_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="pharos_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="gtest_main" />
+      <config projectName="pharos_path_planner" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="topic_tools_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="_pharos_path_planner_generate_messages_check_deps_RoadInfo" />
+      <config projectName="pharos_path_planner" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="gmock" />
+      <config projectName="pharos_path_planner" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_gennodejs" />
+      <config projectName="pharos_path_planner" targetName="tf_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="global_path_planner" />
+      <config projectName="pharos_path_planner" targetName="pcl_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="pcl_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="topic_tools_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="download_extra_data" />
+      <config projectName="pharos_path_planner" targetName="nodelet_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="actionlib_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="tf_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_genpy" />
+      <config projectName="pharos_path_planner" targetName="nodelet_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="tests" />
+      <config projectName="pharos_path_planner" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="pcl_ros_gencfg" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="bond_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="tf_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_generate_messages" />
+      <config projectName="pharos_path_planner" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="_pharos_path_planner_generate_messages_check_deps_LaneInfo" />
+      <config projectName="pharos_path_planner" targetName="local_path_planner" />
+      <config projectName="pharos_path_planner" targetName="tf_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="topic_tools_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="topic_tools_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="pcl_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="std_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="actionlib_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="clean_test_results" />
+      <config projectName="pharos_path_planner" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_genlisp" />
+      <config projectName="pharos_path_planner" targetName="pcl_msgs_generate_messages_nodejs" />
+      <config projectName="pharos_path_planner" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="gtest" />
+      <config projectName="pharos_path_planner" targetName="gmock_main" />
+      <config projectName="pharos_path_planner" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="pharos_path_planner" targetName="std_srvs_generate_messages_py" />
+      <config projectName="pharos_path_planner" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="pharos_path_planner" targetName="pharos_msgs_generate_messages_cpp" />
+      <config projectName="pharos_path_planner" targetName="pharos_path_planner_gencpp" />
+      <config projectName="pharos_path_planner" targetName="roscpp_generate_messages_py" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3a6333a-1e31-4097-8d6b-b92aa88eda02" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/global_path_planner.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="875" column="9" lean-forward="true" selection-start-line="875" selection-start-column="9" selection-end-line="875" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/path_planner.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3696">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/lateral_offset_planning.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hybrid_a_star.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2794">
+              <caret line="127" column="58" selection-start-line="127" selection-start-column="58" selection-end-line="127" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/collision_check.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4488">
+              <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
+              <folding>
+                <element signature="e#57#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/hybrid_a_star.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1584">
+              <caret line="72" column="58" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lateral_avoiding.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3740">
+              <caret line="170" column="40" selection-start-line="170" selection-start-column="40" selection-end-line="170" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/local_path_planner.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9812">
+              <caret line="446" column="55" selection-start-line="446" selection-start-column="55" selection-end-line="446" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/local_path_planner.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="1168" column="57" selection-start-line="1168" selection-start-column="57" selection-end-line="1168" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Opennodeset</find>
+      <find>OpenNodeSet</find>
+      <find>goal_node_</find>
+      <find>p_d</find>
+      <find>collision_margin_scale</find>
+      <find>goal</find>
+      <find>open_node</find>
+      <find>open node</find>
+      <find>behavior</find>
+      <find>go_count</find>
+      <find>sub</find>
+      <find>click_bool_</find>
+      <find>visual</find>
+      <find>look</find>
+      <find>lookahead_node_pose</find>
+      <find>angle_difference</find>
+      <find>angle_origin</find>
+      <find>lookahaed_distance_</find>
+      <find>collision</find>
+      <find>new_vehicle_pose</find>
+      <find>Mission</find>
+      <find>nearest</find>
+      <find>old_path</find>
+      <find>lookahead_vehicle_pose</find>
+      <find>FinalLocalPath</find>
+      <find>Planner_Failure_Counting</find>
+      <find>lookahead</find>
+      <find>go</find>
+      <find>deviding</find>
+      <find>Mission5_check_</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/pharos_3d_path_planner/src/path_planner_3d.cpp" />
+        <option value="$USER_HOME$/Desktop/pharos_3d_path_planner/src/hybrid_a_star.cpp" />
+        <option value="$PROJECT_DIR$/include/hybrid_a_star.h" />
+        <option value="$PROJECT_DIR$/include/path_planner.h" />
+        <option value="$PROJECT_DIR$/include/lateral_avoiding.h" />
+        <option value="$PROJECT_DIR$/include/local_path_planner.h" />
+        <option value="$PROJECT_DIR$/include/collision_check.h" />
+        <option value="$PROJECT_DIR$/src/lateral_avoiding.cpp" />
+        <option value="$PROJECT_DIR$/src/local_path_planner.cpp" />
+        <option value="$PROJECT_DIR$/src/hybrid_a_star.cpp" />
+        <option value="$PROJECT_DIR$/src/global_path_planner.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="992" />
+    <option name="y" value="24" />
+    <option name="width" value="928" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application._pharos_path_planner_generate_messages_check_deps_LaneInfo">
+    <configuration name="_pharos_path_planner_generate_messages_check_deps_LaneInfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="_pharos_path_planner_generate_messages_check_deps_LaneInfo" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_pharos_path_planner_generate_messages_check_deps_Position" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="_pharos_path_planner_generate_messages_check_deps_Position" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_pharos_path_planner_generate_messages_check_deps_ReferencePath" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="_pharos_path_planner_generate_messages_check_deps_ReferencePath" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_pharos_path_planner_generate_messages_check_deps_ReferencePath2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="_pharos_path_planner_generate_messages_check_deps_ReferencePath2" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_pharos_path_planner_generate_messages_check_deps_RoadInfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="_pharos_path_planner_generate_messages_check_deps_RoadInfo" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="bond_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="bond_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="dynamic_reconfigure_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="dynamic_reconfigure_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="global_path_planner" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="global_path_planner" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pharos_path_planner" RUN_TARGET_NAME="global_path_planner">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local_path_planner" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="local_path_planner" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pharos_path_planner" RUN_TARGET_NAME="local_path_planner">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nodelet_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nodelet_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodelet_topic_tools_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="nodelet_topic_tools_gencfg" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pcl_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pcl_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pcl_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pcl_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pcl_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pcl_ros_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pcl_ros_gencfg" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_gencpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_generate_messages" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_geneus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_genlisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_gennodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pharos_path_planner_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="pharos_path_planner_genpy" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_srvs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_srvs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_srvs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_srvs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="std_srvs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic_tools_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="topic_tools_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic_tools_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="topic_tools_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic_tools_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="topic_tools_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic_tools_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="topic_tools_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic_tools_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pharos_path_planner" TARGET_NAME="topic_tools_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application._pharos_path_planner_generate_messages_check_deps_LaneInfo" />
+      <item itemvalue="Application._pharos_path_planner_generate_messages_check_deps_Position" />
+      <item itemvalue="Application._pharos_path_planner_generate_messages_check_deps_ReferencePath" />
+      <item itemvalue="Application._pharos_path_planner_generate_messages_check_deps_ReferencePath2" />
+      <item itemvalue="Application._pharos_path_planner_generate_messages_check_deps_RoadInfo" />
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.bond_generate_messages_cpp" />
+      <item itemvalue="Application.bond_generate_messages_eus" />
+      <item itemvalue="Application.bond_generate_messages_lisp" />
+      <item itemvalue="Application.bond_generate_messages_nodejs" />
+      <item itemvalue="Application.bond_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.dynamic_reconfigure_gencfg" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_cpp" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_eus" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_lisp" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_nodejs" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_py" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.global_path_planner" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+      <item itemvalue="Application.local_path_planner" />
+      <item itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item itemvalue="Application.nodelet_generate_messages_cpp" />
+      <item itemvalue="Application.nodelet_generate_messages_eus" />
+      <item itemvalue="Application.nodelet_generate_messages_lisp" />
+      <item itemvalue="Application.nodelet_generate_messages_nodejs" />
+      <item itemvalue="Application.nodelet_generate_messages_py" />
+      <item itemvalue="Application.nodelet_topic_tools_gencfg" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_eus" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_py" />
+      <item itemvalue="Application.pcl_ros_gencfg" />
+      <item itemvalue="Application.pharos_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.pharos_msgs_generate_messages_eus" />
+      <item itemvalue="Application.pharos_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.pharos_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.pharos_msgs_generate_messages_py" />
+      <item itemvalue="Application.pharos_path_planner_gencpp" />
+      <item itemvalue="Application.pharos_path_planner_generate_messages" />
+      <item itemvalue="Application.pharos_path_planner_generate_messages_cpp" />
+      <item itemvalue="Application.pharos_path_planner_generate_messages_eus" />
+      <item itemvalue="Application.pharos_path_planner_generate_messages_lisp" />
+      <item itemvalue="Application.pharos_path_planner_generate_messages_nodejs" />
+      <item itemvalue="Application.pharos_path_planner_generate_messages_py" />
+      <item itemvalue="Application.pharos_path_planner_geneus" />
+      <item itemvalue="Application.pharos_path_planner_genlisp" />
+      <item itemvalue="Application.pharos_path_planner_gennodejs" />
+      <item itemvalue="Application.pharos_path_planner_genpy" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_srvs_generate_messages_cpp" />
+      <item itemvalue="Application.std_srvs_generate_messages_eus" />
+      <item itemvalue="Application.std_srvs_generate_messages_lisp" />
+      <item itemvalue="Application.std_srvs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_srvs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application.topic_tools_generate_messages_cpp" />
+      <item itemvalue="Application.topic_tools_generate_messages_eus" />
+      <item itemvalue="Application.topic_tools_generate_messages_lisp" />
+      <item itemvalue="Application.topic_tools_generate_messages_nodejs" />
+      <item itemvalue="Application.topic_tools_generate_messages_py" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3a6333a-1e31-4097-8d6b-b92aa88eda02" name="Default Changelist" comment="" />
+      <created>1550722940979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550722940979</updated>
+      <workItem from="1550722943174" duration="2280000" />
+      <workItem from="1552895366672" duration="248000" />
+      <workItem from="1552897372671" duration="739000" />
+      <workItem from="1553494888734" duration="17000" />
+      <workItem from="1553519946242" duration="2648000" />
+      <workItem from="1553671585721" duration="23000" />
+      <workItem from="1553844882141" duration="1602000" />
+      <workItem from="1553932151966" duration="1837000" />
+      <workItem from="1553948830224" duration="3222000" />
+      <workItem from="1554030948214" duration="14046000" />
+      <workItem from="1556641279873" duration="3655000" />
+      <workItem from="1556693569708" duration="1215000" />
+      <workItem from="1556786716578" duration="6005000" />
+      <workItem from="1556865944027" duration="1482000" />
+      <workItem from="1556973125564" duration="2214000" />
+      <workItem from="1557050383877" duration="1089000" />
+      <workItem from="1557063374455" duration="602000" />
+      <workItem from="1557126003105" duration="899000" />
+      <workItem from="1557136376684" duration="5428000" />
+      <workItem from="1557208190710" duration="3758000" />
+      <workItem from="1557230725250" duration="6845000" />
+      <workItem from="1557306319702" duration="5549000" />
+      <workItem from="1557386394944" duration="19300000" />
+      <workItem from="1557410533019" duration="5666000" />
+      <workItem from="1557572238580" duration="4866000" />
+      <workItem from="1557644241143" duration="5443000" />
+      <workItem from="1557654922123" duration="13840000" />
+      <workItem from="1557673465310" duration="3900000" />
+      <workItem from="1557721433158" duration="6166000" />
+      <workItem from="1557728240580" duration="17249000" />
+      <workItem from="1557835009677" duration="22289000" />
+      <workItem from="1558260530779" duration="723000" />
+      <workItem from="1558266029018" duration="1408000" />
+      <workItem from="1558322656829" duration="7065000" />
+      <workItem from="1558358670238" duration="488000" />
+      <workItem from="1558359589706" duration="3055000" />
+      <workItem from="1558437007507" duration="5039000" />
+      <workItem from="1558509856849" duration="16006000" />
+      <workItem from="1558600791078" duration="17182000" />
+      <workItem from="1558702595985" duration="7955000" />
+      <workItem from="1558776615806" duration="18825000" />
+      <workItem from="1558868486009" duration="11211000" />
+      <workItem from="1558940038955" duration="18836000" />
+      <workItem from="1558970522700" duration="1360000" />
+      <workItem from="1559046835960" duration="21625000" />
+      <workItem from="1559197163096" duration="17204000" />
+      <workItem from="1559297476687" duration="8067000" />
+      <workItem from="1559539355597" duration="10872000" />
+      <workItem from="1559560968960" duration="4399000" />
+      <workItem from="1559651234319" duration="6514000" />
+      <workItem from="1559720503951" duration="9038000" />
+      <workItem from="1559800701920" duration="12242000" />
+      <workItem from="1559977108792" duration="590000" />
+      <workItem from="1559977743567" duration="3240000" />
+      <workItem from="1560080294916" duration="83000" />
+      <workItem from="1560082432986" duration="606000" />
+      <workItem from="1560088618863" duration="4068000" />
+      <workItem from="1560150718105" duration="5462000" />
+      <workItem from="1560169529302" duration="225000" />
+      <workItem from="1560170771573" duration="3927000" />
+      <workItem from="1560233236586" duration="1828000" />
+      <workItem from="1560248561082" duration="4385000" />
+      <workItem from="1560346289528" duration="3000000" />
+      <workItem from="1560350600676" duration="4597000" />
+      <workItem from="1560430749098" duration="836000" />
+      <workItem from="1560434758234" duration="5861000" />
+      <workItem from="1560516263395" duration="69000" />
+      <workItem from="1560609439539" duration="790000" />
+      <workItem from="1560610368400" duration="1336000" />
+      <workItem from="1560780764339" duration="4651000" />
+      <workItem from="1560824427533" duration="2358000" />
+      <workItem from="1560831147677" duration="6379000" />
+      <workItem from="1560863522765" duration="823000" />
+      <workItem from="1561039132322" duration="6457000" />
+      <workItem from="1561084950845" duration="5744000" />
+      <workItem from="1561102181083" duration="2744000" />
+      <workItem from="1561118732321" duration="610000" />
+      <workItem from="1561120802500" duration="2478000" />
+      <workItem from="1561287793868" duration="2460000" />
+      <workItem from="1561302222772" duration="85000" />
+      <workItem from="1561347207286" duration="14683000" />
+      <workItem from="1561376262517" duration="2342000" />
+      <workItem from="1561381852443" duration="1806000" />
+      <workItem from="1561387839078" duration="1622000" />
+      <workItem from="1561506363988" duration="4401000" />
+      <workItem from="1561532792030" duration="2619000" />
+      <workItem from="1561547588189" duration="21805000" />
+      <workItem from="1561596202672" duration="7662000" />
+      <workItem from="1561644064953" duration="4785000" />
+      <workItem from="1561706816193" duration="202000" />
+      <workItem from="1561707028084" duration="46853000" />
+      <workItem from="1562033859501" duration="4931000" />
+      <workItem from="1562046280873" duration="3490000" />
+      <workItem from="1562132169244" duration="7636000" />
+      <workItem from="1562172017181" duration="3996000" />
+      <workItem from="1562202413764" duration="331000" />
+      <workItem from="1562208016906" duration="415000" />
+      <workItem from="1562216236244" duration="1214000" />
+      <workItem from="1562286017955" duration="899000" />
+      <workItem from="1562291106624" duration="11922000" />
+      <workItem from="1562306869724" duration="6704000" />
+      <workItem from="1562381460756" duration="5568000" />
+      <workItem from="1562401735778" duration="11724000" />
+      <workItem from="1562437382669" duration="7591000" />
+      <workItem from="1562460686928" duration="9926000" />
+      <workItem from="1562477154365" duration="7679000" />
+      <workItem from="1562489020452" duration="1947000" />
+      <workItem from="1562498143090" duration="13958000" />
+      <workItem from="1562513048496" duration="1403000" />
+      <workItem from="1562545510623" duration="4367000" />
+      <workItem from="1562571572278" duration="3425000" />
+      <workItem from="1562589000938" duration="9332000" />
+      <workItem from="1562601627379" duration="376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="668977000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="992" y="24" width="928" height="1056" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2039801" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.03051882" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.03051882" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32867885" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.07626209" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32879817" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2039801" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.03051882" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.03051882" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32867885" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.07403545" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32879817" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///opt/ros/kinetic/include/nav_msgs/OccupancyGrid.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="62" column="60" selection-start-line="62" selection-start-column="60" selection-end-line="62" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lateral_offset_planning.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_road_information/Waypoint.h" />
+    <entry file="file://$PROJECT_DIR$/msg/RoadInfo (copy).msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_road_information/Road.h" />
+    <entry file="file:///opt/ros/kinetic/include/pcl_ros/transforms.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2019" />
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/tf/LinearMath/Vector3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_road_information/Lanes.h" />
+    <entry file="file://$PROJECT_DIR$/../pharos_3d_path_planner/include/3d_path_planner.h" />
+    <entry file="file://$USER_HOME$/Desktop/pharos_3d_path_planner/src/path_planner_3d.cpp" />
+    <entry file="file:///opt/ros/kinetic/include/geometry_msgs/Pose.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_path_planner/ReferencePath.h" />
+    <entry file="file:///opt/ros/kinetic/include/ros/node_handle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="240" column="72" lean-forward="true" selection-start-line="240" selection-start-column="72" selection-end-line="240" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/ros/publisher.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="81" column="21" lean-forward="true" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/visualization_msgs/Marker.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/pharos_3d_path_planner/src/hybrid_a_star.cpp" />
+    <entry file="file:///opt/ros/kinetic/include/std_msgs/Bool.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/std_msgs/Int32.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_behavior_planner/DrivingState.h" />
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_path_planner/RoadInfo.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/geometry_msgs/PoseStamped.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/shared_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="346" column="13" selection-start-line="346" selection-start-column="13" selection-end-line="346" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msg/RoadInfo.msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="252" column="6" selection-start-line="252" selection-start-column="6" selection-end-line="252" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../devel/include/pharos_msgs/Workzone_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/lateral_avoiding.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="406" selection-start-line="406" selection-end-line="406" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/path_planner.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/lateral_offset_planning.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hybrid_a_star.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2794">
+          <caret line="127" column="58" selection-start-line="127" selection-start-column="58" selection-end-line="127" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/collision_check.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="204" column="34" selection-start-line="204" selection-start-column="34" selection-end-line="204" selection-end-column="34" />
+          <folding>
+            <element signature="e#57#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hybrid_a_star.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="58" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lateral_avoiding.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="170" column="40" selection-start-line="170" selection-start-column="40" selection-end-line="170" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/local_path_planner.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9812">
+          <caret line="446" column="55" selection-start-line="446" selection-start-column="55" selection-end-line="446" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/local_path_planner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="1168" column="57" selection-start-line="1168" selection-start-column="57" selection-end-line="1168" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/global_path_planner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="875" column="9" lean-forward="true" selection-start-line="875" selection-start-column="9" selection-end-line="875" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

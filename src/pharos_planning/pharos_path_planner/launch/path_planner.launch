@@ -1,0 +1,11 @@
+<launch>
+	<!-- Path Planner -->
+	<include file="$(find pharos_path_planner)/launch/path_planner_only.launch" />	
+
+      	<!-- Trajectory_observer -->
+	<include file="$(find pharos_trajectory_observer)/launch/trajectory_observer.launch" />
+
+	<!-- Speed_planner -->
+	<include file="$(find pharos_speed_planner)/launch/speed_planner.launch" />
+
+</launch>

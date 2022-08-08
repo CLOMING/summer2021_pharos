@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pharos_path_planner
+Description: Description of pharos_path_planner
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: 

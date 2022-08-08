@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pharos_trajectory_observer
+Description: Description of pharos_trajectory_observer
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

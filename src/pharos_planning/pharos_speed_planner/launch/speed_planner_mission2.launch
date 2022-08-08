@@ -1,0 +1,18 @@
+<launch>
+	<arg name="dcc_stop" default="10" />
+	<arg name="dcc_start" default="15" />
+	<arg name="longitudinal_acc" default="1" />
+        <node name="speed_planner" pkg="pharos_speed_planner" type="speed_planner_mission2" required="true" output="screen">
+                <remap from="motion_command" to="/vehicle/motion_command" />
+		<remap from="vehicle_state" to="/vehicle/state" />
+                <param name="publish_rate" value="100" />
+
+		<param name="max_speed" value="20.0" type="double"/>
+		<param name="min_speed" value="0.0" type="double"/>
+		<param name="speed_scale" value="1.0" type="double"/>
+		<param name="decceleration_G" value="0.3" type="double"/>
+		<param name="dcc_stop" value="$(arg dcc_stop)" />
+		<param name="dcc_start" value="$(arg dcc_start)" />
+		<param name="longitudinal_acc" value="$(arg longitudinal_acc)" />
+        </node>
+</launch>

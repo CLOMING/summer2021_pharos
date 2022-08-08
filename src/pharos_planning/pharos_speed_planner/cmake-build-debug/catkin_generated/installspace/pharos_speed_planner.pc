@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pharos_speed_planner
+Description: Description of pharos_speed_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

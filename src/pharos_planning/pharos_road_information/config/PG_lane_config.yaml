@@ -1,0 +1,89 @@
+number_of_lanes: 11
+#
+lane_1:
+  road_number: 1
+  lane_number: 1
+  begin_node: 1
+  end_node: 2
+  lane_width: 3.00
+  waypoint_file: '001002.txt'
+#
+lane_2:
+  road_number: 2
+  lane_number: 1
+  begin_node: 2
+  end_node: 3
+  lane_width: 3.00
+  waypoint_file: '002003.txt'
+#
+lane_3:
+  road_number: 3
+  lane_number: 1
+  begin_node: 3
+  end_node: 4
+  lane_width: 3.00
+  waypoint_file: '003004.txt'
+#
+lane_4:
+  road_number: 4
+  lane_number: 1
+  begin_node: 4
+  end_node: 5
+  lane_width: 3.00
+  waypoint_file: '004005.txt'
+#
+lane_5:
+  road_number: 5
+  lane_number: 1
+  begin_node: 5
+  end_node: 6
+  lane_width: 3.00
+  waypoint_file: '005006.txt'
+#
+lane_6:
+  road_number: 6
+  lane_number: 1
+  begin_node: 6
+  end_node: 8
+  lane_width: 3.00
+  waypoint_file: '006008.txt'
+#
+lane_7:
+  road_number: 6
+  lane_number: 2
+  begin_node: 7
+  end_node: 9
+  lane_width: 3.00
+  waypoint_file: '007009.txt'
+#
+lane_8:
+  road_number: 7
+  lane_number: 1
+  begin_node: 8
+  end_node: 10
+  lane_width: 3.00
+  waypoint_file: '008010.txt'
+#
+lane_9:
+  road_number: 8
+  lane_number: 1
+  begin_node: 10
+  end_node: 11
+  lane_width: 3.00
+  waypoint_file: '010011.txt'
+#
+lane_10:
+  road_number: 9
+  lane_number: 1
+  begin_node: 11
+  end_node: 12
+  lane_width: 3.00
+  waypoint_file: '011012.txt'
+#
+lane_11:
+  road_number: 10
+  lane_number: 1
+  begin_node: 12
+  end_node: 13
+  lane_width: 3.00
+  waypoint_file: '012013.txt'

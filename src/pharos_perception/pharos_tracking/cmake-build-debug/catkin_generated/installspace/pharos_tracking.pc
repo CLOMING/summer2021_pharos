@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pharos_tracking
+Description: Description of pharos_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

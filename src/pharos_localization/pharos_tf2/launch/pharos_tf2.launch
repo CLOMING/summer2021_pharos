@@ -1,0 +1,5 @@
+<launch>
+	<node name="pharos_tf2_node" pkg="pharos_tf2" type="pharos_tf2_node" output="screen">
+      	<rosparam command="load" file="$(find pharos_tf2)/config/tf_config.yaml" />
+	</node>
+</launch>

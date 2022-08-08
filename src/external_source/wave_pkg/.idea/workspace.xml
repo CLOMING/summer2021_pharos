@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/dec.cpp" line="476" mnemonic="5" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="wave_pkg" targetName="gmock_main" />
+      <config projectName="wave_pkg" targetName="doxygen" />
+      <config projectName="wave_pkg" targetName="wave_pkg_genpy" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_VehicleSize_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_RTCMmessageList_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_MovementEventList_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_RTCM" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_BSMpartII" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_VehicleSafetyExtensions_t" />
+      <config projectName="wave_pkg" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_IntersectionReferenceID" />
+      <config projectName="wave_pkg" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="wave_pkg" targetName="gtest" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_TIM" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_LaneAttributes_t" />
+      <config projectName="wave_pkg" targetName="gmock" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_SPAT" />
+      <config projectName="wave_pkg" targetName="wave_pkg_gencpp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_IntersectionStateList_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_PathHistory_t" />
+      <config projectName="wave_pkg" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_NodeAttributeSetXY" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_BSMcoreData" />
+      <config projectName="wave_pkg" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="wave_pkg" targetName="dec" />
+      <config projectName="wave_pkg" targetName="run_tests" />
+      <config projectName="wave_pkg" targetName="download_extra_data" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_SupplementalVehicleExtensions_t" />
+      <config projectName="wave_pkg" targetName="wave_pkg_generate_messages_py" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_SpecialVehicleExtensions_t" />
+      <config projectName="wave_pkg" targetName="gtest_main" />
+      <config projectName="wave_pkg" targetName="tests" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_GeographicalPath" />
+      <config projectName="wave_pkg" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_RTCMheader" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_BrakeSystemStatus_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_TravelerDataFrameList_t" />
+      <config projectName="wave_pkg" targetName="wave_pkg_geneus" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_LaneList_t" />
+      <config projectName="wave_pkg" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_NodeListLL_t" />
+      <config projectName="wave_pkg" targetName="roscpp_generate_messages_py" />
+      <config projectName="wave_pkg" targetName="wave_pkg_generate_messages_eus" />
+      <config projectName="wave_pkg" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_OffsetSystem_t" />
+      <config projectName="wave_pkg" targetName="wave_pkg_generate_messages" />
+      <config projectName="wave_pkg" targetName="wave_pkg_genlisp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_PositionalAccuracy_t" />
+      <config projectName="wave_pkg" targetName="clean_test_results" />
+      <config projectName="wave_pkg" targetName="wave_pkg_generate_messages_lisp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_TimeChangeDetails" />
+      <config projectName="wave_pkg" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_AccelerationSet4Way_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_FullPositionVector" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_NodeListXY_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_BSM" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_Position3D_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_MovementList_t" />
+      <config projectName="wave_pkg" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_TravelerDataFrame__content_PR" />
+      <config projectName="wave_pkg" targetName="wave_pkg_gennodejs" />
+      <config projectName="wave_pkg" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="wave_pkg" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="wave_pkg" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="wave_pkg" targetName="roscpp_generate_messages_eus" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_IntersectionReferenceID_t" />
+      <config projectName="wave_pkg" targetName="std_msgs_generate_messages_py" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_NodeOffsetPointXY_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_ConnectsToList" />
+      <config projectName="wave_pkg" targetName="wave_pkg_generate_messages_nodejs" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_AntennaOffsetSet_t" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_IntersectionGeometryList" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_MAP" />
+      <config projectName="wave_pkg" targetName="wave_pkg_generate_messages_cpp" />
+      <config projectName="wave_pkg" targetName="_wave_pkg_generate_messages_check_deps_Position3D" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a34337c1-4681-4af9-9fa2-c970136b6661" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dec.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="378" column="84" lean-forward="true" selection-start-line="378" selection-start-column="84" selection-end-line="378" selection-end-column="84" />
+              <folding>
+                <element signature="e#6#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>publish</find>
+      <find>map_msg</find>
+      <find>region</find>
+      <find>mapdata</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/ConnectingLane.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/udp.cpp" />
+        <option value="$PROJECT_DIR$/src/dec.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="406" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pharos/pharos_path_planner" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application._wave_pkg_generate_messages_check_deps_AccelerationSet4Way_t">
+    <configuration name="_wave_pkg_generate_messages_check_deps_AccelerationSet4Way_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_AccelerationSet4Way_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_AntennaOffsetSet_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_AntennaOffsetSet_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_BSM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_BSM" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_BSMcoreData" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_BSMcoreData" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_BSMpartII" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_BSMpartII" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_BrakeSystemStatus_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_BrakeSystemStatus_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_ConnectsToList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_ConnectsToList" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_FullPositionVector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_FullPositionVector" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_GeographicalPath" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_GeographicalPath" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_IntersectionGeometryList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_IntersectionGeometryList" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_IntersectionReferenceID" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_IntersectionReferenceID" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_IntersectionReferenceID_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_IntersectionReferenceID_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_IntersectionStateList_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_IntersectionStateList_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_LaneAttributes_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_LaneAttributes_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_LaneList_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_LaneList_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_MAP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_MAP" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_MovementEventList_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_MovementEventList_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_MovementList_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_MovementList_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_NodeAttributeSetXY" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_NodeAttributeSetXY" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_NodeListLL_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_NodeListLL_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_NodeListXY_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_NodeListXY_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_NodeOffsetPointXY_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_NodeOffsetPointXY_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_OffsetSystem_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_OffsetSystem_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_PathHistory_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_PathHistory_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_Position3D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_Position3D" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_Position3D_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_Position3D_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_PositionalAccuracy_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_PositionalAccuracy_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_RTCM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_RTCM" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_RTCMheader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_RTCMheader" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_RTCMmessageList_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_RTCMmessageList_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_SPAT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_SPAT" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_SpecialVehicleExtensions_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_SpecialVehicleExtensions_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_SupplementalVehicleExtensions_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_SupplementalVehicleExtensions_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_TIM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_TIM" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_TimeChangeDetails" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_TimeChangeDetails" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_TravelerDataFrameList_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_TravelerDataFrameList_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_TravelerDataFrame__content_PR" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_TravelerDataFrame__content_PR" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_VehicleSafetyExtensions_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_VehicleSafetyExtensions_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_wave_pkg_generate_messages_check_deps_VehicleSize_t" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="_wave_pkg_generate_messages_check_deps_VehicleSize_t" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="dec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="wave_pkg" RUN_TARGET_NAME="dec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_gencpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_generate_messages" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_geneus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_genlisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_gennodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave_pkg_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="wave_pkg" TARGET_NAME="wave_pkg_genpy" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_AccelerationSet4Way_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_AntennaOffsetSet_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_BSM" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_BSMcoreData" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_BSMpartII" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_BrakeSystemStatus_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_ConnectsToList" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_FullPositionVector" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_GeographicalPath" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_IntersectionGeometryList" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_IntersectionReferenceID" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_IntersectionReferenceID_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_IntersectionStateList_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_LaneAttributes_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_LaneList_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_MAP" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_MovementEventList_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_MovementList_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_NodeAttributeSetXY" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_NodeListLL_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_NodeListXY_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_NodeOffsetPointXY_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_OffsetSystem_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_PathHistory_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_Position3D" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_Position3D_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_PositionalAccuracy_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_RTCM" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_RTCMheader" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_RTCMmessageList_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_SPAT" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_SpecialVehicleExtensions_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_SupplementalVehicleExtensions_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_TIM" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_TimeChangeDetails" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_TravelerDataFrameList_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_TravelerDataFrame__content_PR" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_VehicleSafetyExtensions_t" />
+      <item itemvalue="CMake Application._wave_pkg_generate_messages_check_deps_VehicleSize_t" />
+      <item itemvalue="CMake Application.clean_test_results" />
+      <item itemvalue="CMake Application.dec" />
+      <item itemvalue="CMake Application.download_extra_data" />
+      <item itemvalue="CMake Application.doxygen" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_eus" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_py" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.run_tests" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.tests" />
+      <item itemvalue="CMake Application.wave_pkg_gencpp" />
+      <item itemvalue="CMake Application.wave_pkg_generate_messages" />
+      <item itemvalue="CMake Application.wave_pkg_generate_messages_cpp" />
+      <item itemvalue="CMake Application.wave_pkg_generate_messages_eus" />
+      <item itemvalue="CMake Application.wave_pkg_generate_messages_lisp" />
+      <item itemvalue="CMake Application.wave_pkg_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.wave_pkg_generate_messages_py" />
+      <item itemvalue="CMake Application.wave_pkg_geneus" />
+      <item itemvalue="CMake Application.wave_pkg_genlisp" />
+      <item itemvalue="CMake Application.wave_pkg_gennodejs" />
+      <item itemvalue="CMake Application.wave_pkg_genpy" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a34337c1-4681-4af9-9fa2-c970136b6661" name="Default Changelist" comment="" />
+      <created>1550758263703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550758263703</updated>
+      <workItem from="1550758264784" duration="519000" />
+      <workItem from="1550758804278" duration="5316000" />
+      <workItem from="1550810980656" duration="23598000" />
+      <workItem from="1550914234608" duration="3801000" />
+      <workItem from="1553494907196" duration="6581000" />
+      <workItem from="1553671610891" duration="5797000" />
+      <workItem from="1553844750739" duration="87000" />
+      <workItem from="1553958998432" duration="1202000" />
+      <workItem from="1554030948299" duration="4190000" />
+      <workItem from="1554274001308" duration="403000" />
+      <workItem from="1554342558508" duration="5034000" />
+      <workItem from="1554355411471" duration="3335000" />
+      <workItem from="1556333100935" duration="2155000" />
+      <workItem from="1556339583697" duration="1513000" />
+      <workItem from="1557459551775" duration="7133000" />
+      <workItem from="1558057602206" duration="1706000" />
+      <workItem from="1558064967776" duration="1225000" />
+      <workItem from="1558662533704" duration="2434000" />
+      <workItem from="1558682248590" duration="19000" />
+      <workItem from="1560683028310" duration="14484000" />
+      <workItem from="1560779832709" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.016583748" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32975295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32012513" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3295099" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3292978" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/ComputedLane.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionStateList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionID.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RoadRegulatorID.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/DSRC_MsgCount.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionStatusObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/SignalGroupID.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/DSRC_TimeMark.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MovementPhaseState.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/DescriptiveName.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/TimeChangeDetails.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MovementEvent.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MovementEventList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MovementState.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MovementList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionState.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ConnectionManeuverAssist.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/PedestrianBicycleDetect.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/BOOLEAN.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ManeuverAssistList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/share/genmsg/cmake/genmsg-extras.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake/wave_pkg-genmsg.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/devel/include/wave_pkg/GeographicalPath.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/devel/include/wave_pkg/RTCM.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionReferenceID.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionGeometry.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Latitude.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/IntersectionGeometryList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/asn_codecs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/constr_TYPE.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/SPAT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RestrictionUserType.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/TravelerDataFrameList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/asn_SET_OF.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/asn_SEQUENCE_OF.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/TravelerDataFrame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/ros/publisher.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MapData.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/GeographicalPath.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/DSRC_Elevation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Position3D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="877">
+          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/devel/include/wave_pkg/MovementList_t.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/devel/include/wave_pkg/IntersectionGeometryList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/devel/include/wave_pkg/TravelerDataFrame__content_PR.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/devel/include/wave_pkg/TimeChangeDetails.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/constr_TYPE.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/BasicSafetyMessage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MessageFrame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="104" column="30" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dec.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="378" column="84" lean-forward="true" selection-start-line="378" selection-start-column="84" selection-end-line="378" selection-end-column="84" />
+          <folding>
+            <element signature="e#6#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

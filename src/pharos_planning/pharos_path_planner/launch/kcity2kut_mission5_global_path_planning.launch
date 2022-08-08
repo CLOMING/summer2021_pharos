@@ -1,0 +1,11 @@
+<launch>
+        <node name="global_path_planner_node" pkg="pharos_path_planner" type="global_path_planner" required="false" output="screen">
+        	<param name="odom_topic_name" value="/odom/vehicle"/>
+        </node>
+
+	<!-- RoadNetworkGraph :: this launch file make the global path-->
+	<include file="$(find pharos_road_information)/launch/road_graph_building_kcity2kut_mission5.launch" />
+
+	<!-- Speed_planner -->
+	<include file="$(find pharos_speed_planner)/launch/speed_planner.launch" />
+</launch>

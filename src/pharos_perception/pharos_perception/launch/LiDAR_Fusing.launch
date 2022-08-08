@@ -1,0 +1,32 @@
+<launch>
+	<arg name="project" default="pharos_perception"/>
+	<node pkg="$(arg project)" name="$(arg project)_lidar_transform" type="$(arg project)_lidar_transform" output="screen">
+      	<rosparam command="load" file="$(find pharos_tf2)/config/tf_config.yaml" />
+
+      	<!-- [PHAROS Perception] - LiDAR PointCloud Fusing  / Subscribe Param -->
+		<param name="sub_Ouster" value="os_cloud_node/points" />
+      	<param name="sub_Velodyne_Left" value="vlp_l/velodyne_points" />
+      	<param name="sub_Velodyne_Right" value="vlp_r/velodyne_points" />
+
+		<!-- [PHAROS Perception] - LiDAR PointCloud Fusing  / Publish Param -->
+		<param name="pub_Ouster" value="/lidar_pcl/sensor/ousterPCL" />
+      	<param name="pub_Velodyne_Left" value="/lidar_pcl/sensor/L_velodynePCL" />
+      	<param name="pub_Velodyne_Right" value="/lidar_pcl/sensor/R_VelodynePCL" />
+      	<!-- [PHAROS Perception] - Frame TF Param -->
+		<param name="Roof_FrameNum" value="7" />
+		<param name="Ouster_FrameNum" value="8" />
+      	<param name="VLP_L_FrameNum" value="10" />
+      	<param name="VLP_R_FrameNum" value="12" /> 	
+  </node>
+
+  <node pkg="$(arg project)" name="$(arg project)_lidar_segmentation" type="$(arg project)_lidar_segmentation" output="screen">
+      	<param name="sub_Fused_Param" value="/lidar_pcl/sensor/ousterPCL" />
+      	<param name="pub_Surface_Param" value="/lidar_pcl/surface/initialPCL" /> 									<!-- [PHAROS MCL] FIX name for Preliminaries-->
+      	<param name="pub_Obstacle_Param" value="/lidar_pcl/obstacle/initialPCL" />
+
+      	<param name="zSurface" value="0.0" />
+      	<param name="zBoundary" value="0.4" />
+
+	</node>
+
+</launch>

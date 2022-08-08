@@ -1,0 +1,67 @@
+number_of_lanes: 11
+#
+lane_1:
+  road_id: 6
+  lane_id: 1
+  intersection_id: 100
+  traffic_light_id: 0
+#
+lane_2:
+  road_id: 12
+  lane_id: 1
+  intersection_id: 100
+  traffic_light_id: 0
+#
+lane_3:
+  road_id: 19
+  lane_id: 1
+  intersection_id: 200
+  traffic_light_id: 0
+#
+lane_4:
+  road_id: 22
+  lane_id: 1
+  intersection_id: 200
+  traffic_light_id: 0
+#
+lane_5:
+  road_id: 23
+  lane_id: 1
+  intersection_id: 200
+  traffic_light_id: 0
+#
+lane_6:
+  road_id: 11
+  lane_id: 1
+  intersection_id: 300
+  traffic_light_id: 0
+#
+lane_7:
+  road_id: 16
+  lane_id: 1
+  intersection_id: 300
+  traffic_light_id: 0
+#
+lane_8:
+  road_id: 29
+  lane_id: 1
+  intersection_id: 300
+  traffic_light_id: 0
+#
+lane_9:
+  road_id: 39
+  lane_id: 1
+  intersection_id: 400
+  traffic_light_id: 1
+#
+lane_10:
+  road_id: 42
+  lane_id: 1
+  intersection_id: 500
+  traffic_light_id: 1
+#
+lane_11:
+  road_id: 44
+  lane_id: 1
+  intersection_id: 700
+  traffic_light_id: 1

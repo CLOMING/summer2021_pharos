@@ -1,0 +1,18 @@
+<launch>
+	<arg name="ref_path" default="false"/>
+        <node name="trajectory_observer" pkg="pharos_trajectory_observer" type="trajectory_observer" respawn="true" output="screen"  >
+
+                <param name="publish_rate" value="100" />
+		<param name="reference_path_following" value="$(arg ref_path)" />
+		<param name="without_waypoint" value="false" />
+
+		<param name="lateral_offset_limit" type= "double" value="0.4" />
+		<param name="angle_diff_limit" type= "double" value="10.0" />
+		<param name="acc_limit" type= "double" value="50.0" />
+		<param name="velocity_limit" type= "double" value="115.0" />
+
+		<param name="breaking_distance" type= "double" value="120.0" />
+		<param name="auto_stop" value="false" />
+        </node>
+
+</launch>

@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="pharos_obstacle_mapping" type="time_accum_map" name="time_accum_map_node" output="screen">
+		<param name="decay_time" type="double" value="0.4"/>
+	</node>
+</launch>

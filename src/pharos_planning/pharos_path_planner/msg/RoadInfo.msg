@@ -1,0 +1,10 @@
+Position position
+float64 curvature
+float64 reference_speed
+float64 speed_limit
+uint16 road_number
+uint16 lane_number
+uint16 road_type
+uint16 action
+uint16 lane_index
+uint16 wp_index

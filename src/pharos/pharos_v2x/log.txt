@@ -1,0 +1,1257 @@
+DEBUG : OBU TCP [118.45.183.36:23000] Connected 
+TX - "TX_WAVE_UPER" SEQ[0] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [0/0/40]
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-2
+id 
+    region : 0
+    id: 2
+revision: 104
+status: 0
+moy: 154257
+timeStamp: 29060
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 6
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 650
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 50
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 50
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 50
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 250
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 250
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 250
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 450
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 450
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 450
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-1
+id 
+    region : 0
+    id: 1
+revision: 79
+status: 0
+moy: 154257
+timeStamp: 29154
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 470
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 470
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 440
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 40
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 6
+    timing_minEndtime: 40
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 440
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 70
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 70
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 440
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 270
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 270
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 440
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+TX - "TX_WAVE_UPER" SEQ[1] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[2] = HEX[55] : 001A3410467123384BC3F3F3355908016B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B5AD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [1/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [2/0/55]
+TX - "TX_WAVE_UPER" SEQ[3] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [3/1/40]
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[4] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[5] = HEX[55] : 001A3410467123384BC3F3F3355908016B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B5AD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [4/0/40]
+RX - "RX_WAVE_UPER" [95] 
+>> Parse J2735 : SPAT
+name: KIAPI-3
+id 
+    region : 0
+    id: 3
+revision: 7
+status: 0
+moy: 154257
+timeStamp: 29468
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 8
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 520
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "TX_WAVE_UPER_ACK" [5/1/55]
+TX - "TX_WAVE_UPER" SEQ[6] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [6/0/40]
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [95] 
+>> Parse J2735 : SPAT
+name: KIAPI-3
+id 
+    region : 0
+    id: 3
+revision: 8
+status: 0
+moy: 154257
+timeStamp: 29627
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 8
+    timing_minEndtime: 10
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 10
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 10
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 10
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 510
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[7] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[8] = HEX[55] : 001A3410467123384BC3F3F3355908016B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B5AD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [7/1/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[9] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [8/1/55]
+RX - "TX_WAVE_UPER_ACK" [9/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[10] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[11] = HEX[55] : 001A3410467123384BC3F3F3355908016B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B5AD2747FDAD27480080000000000
+RX - "TX_WAVE_UPER_ACK" [10/1/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+TX - "TX_WAVE_UPER" SEQ[12] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [11/1/55]
+RX - "TX_WAVE_UPER_ACK" [12/0/40]
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[13] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[14] = HEX[55] : 001A3410467123384BC3F3F335590801735A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B9AD2747FDAD27480080000000000
+RX - "TX_WAVE_UPER_ACK" [13/0/40]
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-2
+id 
+    region : 0
+    id: 2
+revision: 106
+status: 0
+moy: 154257
+timeStamp: 29973
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 7
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 8
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 630
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 230
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 230
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 230
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[15] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [14/1/55]
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [15/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[16] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[17] = HEX[55] : 001A3410467123384BC3F3F335590801735A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B9AD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-1
+id 
+    region : 0
+    id: 1
+revision: 80
+status: 0
+moy: 154257
+timeStamp: 30131
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 460
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 460
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 6
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 60
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 60
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 260
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 260
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [16/1/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [17/0/55]
+TX - "TX_WAVE_UPER" SEQ[18] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [18/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[19] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[20] = HEX[55] : 001A3410467123384BC3F3F335590801735A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B9AD2747FDAD27480080000000000
+RX - "TX_WAVE_UPER_ACK" [19/1/40]
+RX - "RX_WAVE_UPER" [95] 
+>> Parse J2735 : SPAT
+name: KIAPI-3
+id 
+    region : 0
+    id: 3
+revision: 9
+status: 0
+moy: 154257
+timeStamp: 30453
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 650
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 470
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 200
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 620
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 500
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [20/1/55]
+TX - "TX_WAVE_UPER" SEQ[21] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [21/0/40]
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[22] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[23] = HEX[55] : 001A3410467123384BC3F3F335590801735A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B9AD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [22/0/40]
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [23/1/55]
+TX - "TX_WAVE_UPER" SEQ[24] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [24/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[25] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[26] = HEX[55] : 001A3410467123384BC3F3F335590801735A4E8FFB5A4E900100000000000101001E1F9F99AAC8400B9AD2747FDAD27480080000000000
+RX - "TX_WAVE_UPER_ACK" [25/1/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [26/1/55]
+RX - "RX_WAVE_UPER" [281] 
+TX - "TX_WAVE_UPER" SEQ[27] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [27/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[28] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[29] = HEX[55] : 001A3410467123384BC3F3F3355908017B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400BDAD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [28/1/40]
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [29/1/55]
+TX - "TX_WAVE_UPER" SEQ[30] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "TX_WAVE_UPER_ACK" [30/0/40]
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-1
+id 
+    region : 0
+    id: 1
+revision: 81
+status: 0
+moy: 154257
+timeStamp: 31075
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 460
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 460
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 6
+    timing_minEndtime: 30
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 60
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 60
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 260
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 260
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 430
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+TX - "TX_WAVE_UPER" SEQ[31] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[32] = HEX[55] : 001A3410467123384BC3F3F3355908017B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400BDAD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [31/0/40]
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-2
+id 
+    region : 0
+    id: 2
+revision: 108
+status: 0
+moy: 154257
+timeStamp: 31178
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 7
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 8
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 620
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 220
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 220
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 220
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [32/0/55]
+TX - "TX_WAVE_UPER" SEQ[33] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [33/0/40]
+RX - "RX_WAVE_UPER" [222] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [194] 
+>> Parse J2735 : SPAT
+name: KIAPI-1
+id 
+    region : 0
+    id: 1
+revision: 82
+status: 0
+moy: 154257
+timeStamp: 31324
+-----------------------------------
+movementNames: STR/SE
+signal group: 16
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 450
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 450
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SE
+signal group: 18
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/SW
+signal group: 20
+state-time-speed
+    eventState: 6
+    timing_minEndtime: 20
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NW
+signal group: 22
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 50
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NW
+signal group: 23
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 50
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NW
+signal group: 24
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 250
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 250
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/NE
+signal group: 15
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 420
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+TX - "TX_WAVE_UPER" SEQ[34] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000
+TX - "TX_WAVE_UPER" SEQ[35] = HEX[55] : 001A3410467123384BC3F3F3355908017B5A4E8FFB5A4E900100000000000101001E1F9F99AAC8400BDAD2747FDAD27480080000000000
+RX - "RX_WAVE_UPER" [290] 
+>> Parse J2735 : MAP
+RX - "RX_WAVE_UPER" [281] 
+>> Parse J2735 : MAP
+RX - "TX_WAVE_UPER_ACK" [34/1/40]
+RX - "RX_WAVE_UPER" [95] 
+>> Parse J2735 : SPAT
+name: KIAPI-3
+id 
+    region : 0
+    id: 3
+revision: 10
+status: 0
+moy: 154257
+timeStamp: 31459
+-----------------------------------
+movementNames: LEF/SE
+signal group: 17
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 640
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/SW
+signal group: 19
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 460
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: PED/SW
+signal group: 21
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 190
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: STR/NE
+signal group: 13
+state-time-speed
+    eventState: 5
+    timing_minEndtime: 610
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+movementNames: LEF/NE
+signal group: 14
+state-time-speed
+    eventState: 3
+    timing_minEndtime: 490
+maneuverAssistList
+    connectionID: 0
+    pedBicycleDetect: true 
+-----------------------------------
+RX - "TX_WAVE_UPER_ACK" [35/1/55]
+TX - "TX_WAVE_UPER" SEQ[36] = HEX[40] : 0014250000004080C0001AD2748035A4E8FF880000000000000000007E7D07D07F7FFF8000000000

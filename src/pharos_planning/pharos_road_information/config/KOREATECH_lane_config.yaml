@@ -1,0 +1,471 @@
+number_of_lanes: 67
+#
+lane_1:
+  road_number: 1
+  lane_number: 1
+  begin_node: 1
+  end_node: 3
+  waypoint_file: '001003.txt'
+#
+lane_2:
+  road_number: 1
+  lane_number: 2
+  begin_node: 0
+  end_node: 2
+  waypoint_file: '000002.txt'  
+#
+lane_3:
+  road_number: 2
+  lane_number: 1
+  begin_node: 2
+  end_node: 4
+  waypoint_file: '002004.txt'  
+#
+lane_4:
+  road_number: 2
+  lane_number: 2
+  begin_node: 2
+  end_node: 6
+  waypoint_file: '002006.txt'  
+#
+lane_5:
+  road_number: 3
+  lane_number: 1
+  begin_node: 3
+  end_node: 7
+  waypoint_file: '003007.txt'
+#
+lane_6:
+  road_number: 4
+  lane_number: 1
+  begin_node: 4
+  end_node: 8
+  waypoint_file: '004008.txt'  
+#
+lane_7:
+  road_number: 5
+  lane_number: 1
+  begin_node: 9
+  end_node: 5
+  waypoint_file: '009005.txt'  
+#
+lane_8:
+  road_number: 6
+  lane_number: 1
+  begin_node: 8
+  end_node: 10
+  waypoint_file: '008010.txt'
+#
+lane_9:
+  road_number: 6
+  lane_number: 2
+  begin_node: 8
+  end_node: 12
+  waypoint_file: '008012.txt'  
+#
+lane_10:
+  road_number: 7
+  lane_number: 1
+  begin_node: 10
+  end_node: 17
+  waypoint_file: '010017.txt'  
+#
+lane_11:
+  road_number: 8
+  lane_number: 1
+  begin_node: 16
+  end_node: 11
+  waypoint_file: '016011.txt'  
+#
+lane_12:
+  road_number: 9
+  lane_number: 1
+  begin_node: 11
+  end_node: 9
+  waypoint_file: '011009.txt'  
+#
+lane_13:
+  road_number: 9
+  lane_number: 2
+  begin_node: 11
+  end_node: 12
+  waypoint_file: '011012.txt'  
+#
+lane_14:
+  road_number: 10
+  lane_number: 1
+  begin_node: 12
+  end_node: 14
+  waypoint_file: '012014.txt'  
+#
+lane_15:
+  road_number: 11
+  lane_number: 1
+  begin_node: 15
+  end_node: 13
+  waypoint_file: '015013.txt'  
+#
+lane_16:
+  road_number: 12
+  lane_number: 1
+  begin_node: 13
+  end_node: 10
+  waypoint_file: '013008.txt'  
+#
+lane_17:
+  road_number: 12
+  lane_number: 2
+  begin_node: 13
+  end_node: 9
+  waypoint_file: '013009.txt'  
+#
+lane_18:
+  road_number: 13
+  lane_number: 1
+  begin_node: 14
+  end_node: 16
+  waypoint_file: '014016.txt'  
+#
+lane_19:
+  road_number: 13
+  lane_number: 2
+  begin_node: 14
+  end_node: 19
+  waypoint_file: '014019.txt'  
+#
+lane_20:
+  road_number: 14
+  lane_number: 1
+  begin_node: 17
+  end_node: 15
+  waypoint_file: '017015.txt'  
+#
+lane_21:
+  road_number: 14
+  lane_number: 2
+  begin_node: 17
+  end_node: 19
+  waypoint_file: '017019.txt'  
+#
+lane_22:
+  road_number: 15
+  lane_number: 1
+  begin_node: 18
+  end_node: 15
+  waypoint_file: '018015.txt'  
+#
+lane_23:
+  road_number: 15
+  lane_number: 2
+  begin_node: 18
+  end_node: 16
+  waypoint_file: '018016.txt'  
+#
+lane_24:
+  road_number: 16
+  lane_number: 1
+  begin_node: 19
+  end_node: 37
+  waypoint_file: '019037.txt'  
+#
+lane_25:
+  road_number: 17
+  lane_number: 1
+  begin_node: 36
+  end_node: 18
+  waypoint_file: '036018.txt'  
+#
+lane_26:
+  road_number: 18
+  lane_number: 1
+  begin_node: 5
+  end_node: 6
+  waypoint_file: '005006.txt'  
+#
+lane_27:
+  road_number: 18
+  lane_number: 2
+  begin_node: 5
+  end_node: 30
+  waypoint_file: '005030.txt'  
+#
+lane_28:
+  road_number: 19
+  lane_number: 1
+  begin_node: 7
+  end_node: 21
+  waypoint_file: '007021.txt'  
+#
+lane_29:
+  road_number: 19
+  lane_number: 2
+  begin_node: 6
+  end_node: 20
+  waypoint_file: '006020.txt'  
+#
+lane_30:
+  road_number: 20
+  lane_number: 1
+  begin_node: 20
+  end_node: 22
+  waypoint_file: '020022.txt'  
+#
+lane_31:
+  road_number: 21
+  lane_number: 1
+  begin_node: 21
+  end_node: 27
+  waypoint_file: '021027.txt'  
+#
+lane_32:
+  road_number: 22
+  lane_number: 1
+  begin_node: 23
+  end_node: 24
+  waypoint_file: '023024.txt'  
+#
+lane_33:
+  road_number: 22
+  lane_number: 2
+  begin_node: 23
+  end_node: 27
+  waypoint_file: '023027.txt'  
+#
+lane_34:
+  road_number: 23
+  lane_number: 1
+  begin_node: 26
+  end_node: 22
+  waypoint_file: '026022.txt'  
+#
+lane_35:
+  road_number: 23
+  lane_number: 2
+  begin_node: 26
+  end_node: 25
+  waypoint_file: '026025.txt'  
+#
+lane_36:
+  road_number: 24
+  lane_number: 1
+  begin_node: 22
+  end_node: 34
+  waypoint_file: '022034.txt'  
+#
+lane_37:
+  road_number: 25
+  lane_number: 1
+  begin_node: 35
+  end_node: 23
+  waypoint_file: '035023.txt'  
+#
+lane_38:
+  road_number: 26
+  lane_number: 1
+  begin_node: 34
+  end_node: 36
+  waypoint_file: '034036.txt'  
+#
+lane_39:
+  road_number: 26
+  lane_number: 2
+  begin_node: 34
+  end_node: 39
+  waypoint_file: '034039.txt'  
+#
+lane_40:
+  road_number: 27
+  lane_number: 1
+  begin_node: 37
+  end_node: 35
+  waypoint_file: '037035.txt'  
+#
+lane_41:
+  road_number: 27
+  lane_number: 2
+  begin_node: 37
+  end_node: 39
+  waypoint_file: '037039.txt'  
+#
+lane_42:
+  road_number: 28
+  lane_number: 1
+  begin_node: 38
+  end_node: 35
+  waypoint_file: '038035.txt'  
+#
+lane_43:
+  road_number: 28
+  lane_number: 2
+  begin_node: 38
+  end_node: 36
+  waypoint_file: '038036.txt'  
+#
+lane_44:
+  road_number: 29
+  lane_number: 1
+  begin_node: 39
+  end_node: 40
+  waypoint_file: '039040.txt'  
+#
+lane_45:
+  road_number: 30
+  lane_number: 1
+  begin_node: 41
+  end_node: 38
+  waypoint_file: '041038.txt'  
+#
+lane_46:
+  road_number: 31
+  lane_number: 1
+  begin_node: 40
+  end_node: 42
+  waypoint_file: '040042.txt'  
+#
+lane_47:
+  road_number: 31
+  lane_number: 2
+  begin_node: 40
+  end_node: 45
+  waypoint_file: '040045.txt'  
+#
+lane_48:
+  road_number: 32
+  lane_number: 1
+  begin_node: 44
+  end_node: 41
+  waypoint_file: '044041.txt'  
+#
+lane_49:
+  road_number: 32
+  lane_number: 2
+  begin_node: 44
+  end_node: 42
+  waypoint_file: '044042.txt'  
+#
+lane_50:
+  road_number: 33
+  lane_number: 1
+  begin_node: 43
+  end_node: 41
+  waypoint_file: '043041.txt'  
+#
+lane_51:
+  road_number: 33
+  lane_number: 2
+  begin_node: 43
+  end_node: 45
+  waypoint_file: '043045.txt'  
+#
+lane_52:
+  road_number: 34
+  lane_number: 1
+  begin_node: 42
+  end_node: 44
+  waypoint_file: '042044.txt'  
+#
+lane_53:
+  road_number: 35
+  lane_number: 1
+  begin_node: 45
+  end_node: 43
+  waypoint_file: '045043.txt'  
+#
+lane_54:
+  road_number: 36
+  lane_number: 1
+  begin_node: 27
+  end_node: 46
+  waypoint_file: '027046.txt'  
+#
+lane_55:
+  road_number: 37
+  lane_number: 1
+  begin_node: 47
+  end_node: 26
+  waypoint_file: '047026.txt'  
+#
+lane_56:
+  road_number: 38
+  lane_number: 1
+  begin_node: 46
+  end_node: 47
+  waypoint_file: '046047.txt'  
+#
+lane_57:
+  road_number: 39
+  lane_number: 1
+  begin_node: 24
+  end_node: 28
+  waypoint_file: '024028.txt'  
+#
+lane_58:
+  road_number: 39
+  lane_number: 2
+  begin_node: 25
+  end_node: 29
+  waypoint_file: '025029.txt'  
+#
+lane_59:
+  road_number: 40
+  lane_number: 1
+  begin_node: 28
+  end_node: 4
+  waypoint_file: '028004.txt'  
+#
+lane_60:
+  road_number: 40
+  lane_number: 2
+  begin_node: 28
+  end_node: 30
+  waypoint_file: '028030.txt'  
+#
+lane_61:
+  road_number: 41
+  lane_number: 1
+  begin_node: 29
+  end_node: 31
+  waypoint_file: '029031.txt'  
+#
+lane_62:
+  road_number: 42
+  lane_number: 1
+  begin_node: 30
+  end_node: 32
+  waypoint_file: '030032.txt'  
+#
+lane_63:
+  road_number: 42
+  lane_number: 2
+  begin_node: 31
+  end_node: 33
+  waypoint_file: '031033.txt'  
+#
+lane_64:
+  road_number: 43
+  lane_number: 1
+  begin_node: 32
+  end_node: 0
+  waypoint_file: '032000.txt'  
+#
+lane_65:
+  road_number: 44
+  lane_number: 1
+  begin_node: 32
+  end_node: 48
+  waypoint_file: '032048.txt'  
+#
+lane_66:
+  road_number: 45
+  lane_number: 1
+  begin_node: 48
+  end_node: 49
+  waypoint_file: '048049.txt'  
+#
+lane_67:
+  road_number: 46
+  lane_number: 1
+  begin_node: 49
+  end_node: 0
+  waypoint_file: '049000.txt'  
+

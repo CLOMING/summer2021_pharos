@@ -1,0 +1,11 @@
+build/
+devel/
+
+src/pharos_maps/KAIST/
+src/pharos_maps/Kcity/
+src/pharos_maps/DaeguPG/
+
+src/pharos/pharos_bringup/config/pg_main.rviz
+src/pharos/pharos_bringup/config/pg_perception.rviz
+
+.DS_Store

@@ -1,0 +1,1086 @@
+number_of_roads: 155
+#
+road_1:
+  road_number: 1
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_2:
+  road_number: 2
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_3:
+  road_number: 3
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_4:
+  road_number: 4
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_5:
+  road_number: 5
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_6:
+  road_number: 6
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_7:
+  road_number: 7
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_8:
+  road_number: 8
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_9:
+  road_number: 9
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_10:
+  road_number: 10
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_11:
+  road_number: 11
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_12:
+  road_number: 12
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_13:
+  road_number: 13
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_14:
+  road_number: 14
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_15:
+  road_number: 15
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_16:
+  road_number: 16
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_17:
+  road_number: 17
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_18:
+  road_number: 18
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_19:
+  road_number: 19
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_20:
+  road_number: 20
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_21:
+  road_number: 21
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_22:
+  road_number: 22
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_23:
+  road_number: 23
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_24:
+  road_number: 24
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_25:
+  road_number: 25
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_26:
+  road_number: 26
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_27:
+  road_number: 27
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_28:
+  road_number: 28
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_29:
+  road_number: 29
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_30:
+  road_number: 30
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_31:
+  road_number: 31
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_32:
+  road_number: 32
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_33:
+  road_number: 33
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_34:
+  road_number: 34
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_35:
+  road_number: 35
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_36:
+  road_number: 36
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_37:
+  road_number: 37
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_38:
+  road_number: 38
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_39:
+  road_number: 39
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_40:
+  road_number: 40
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_41:
+  road_number: 41
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_42:
+  road_number: 42
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_43:
+  road_number: 43
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_44:
+  road_number: 44
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_45:
+  road_number: 45
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_46:
+  road_number: 46
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_47:
+  road_number: 47
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_48:
+  road_number: 48
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_49:
+  road_number: 49
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_50:
+  road_number: 50
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_51:
+  road_number: 51
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_52:
+  road_number: 52
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_53:
+  road_number: 53
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_54:
+  road_number: 54
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_55:
+  road_number: 55
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_56:
+  road_number: 56
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_57:
+  road_number: 57
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_58:
+  road_number: 58
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_59:
+  road_number: 59
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_60:
+  road_number: 60
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_61:
+  road_number: 61
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_62:
+  road_number: 62
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_63:
+  road_number: 63
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_64:
+  road_number: 64
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_65:
+  road_number: 65
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_66:
+  road_number: 66
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_67:
+  road_number: 67
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_68:
+  road_number: 68
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_69:
+  road_number: 69
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_70:
+  road_number: 70
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_71:
+  road_number: 71
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_72:
+  road_number: 72
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_73:
+  road_number: 73
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_74:
+  road_number: 74
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_75:
+  road_number: 75
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_76:
+  road_number: 76
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_77:
+  road_number: 77
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_78:
+  road_number: 78
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_79:
+  road_number: 79
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_80:
+  road_number: 80
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_81:
+  road_number: 81
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_82:
+  road_number: 82
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_83:
+  road_number: 83
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_84:
+  road_number: 84
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_85:
+  road_number: 85
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_86:
+  road_number: 86
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_87:
+  road_number: 87
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_88:
+  road_number: 88
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_89:
+  road_number: 89
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_90:
+  road_number: 90
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_91:
+  road_number: 91
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_92:
+  road_number: 92
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_93:
+  road_number: 93
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_94:
+  road_number: 94
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_95:
+  road_number: 95
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_96:
+  road_number: 96
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_97:
+  road_number: 97
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_98:
+  road_number: 98
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_99:
+  road_number: 99
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_100:
+  road_number: 100
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_101:
+  road_number: 101
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_102:
+  road_number: 102
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_103:
+  road_number: 103
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_104:
+  road_number: 104
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_105:
+  road_number: 105
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_106:
+  road_number: 106
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_107:
+  road_number: 107
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_108:
+  road_number: 108
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_109:
+  road_number: 109
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_110:
+  road_number: 110
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_111:
+  road_number: 111
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_112:
+  road_number: 112
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_113:
+  road_number: 113
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_114:
+  road_number: 114
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_115:
+  road_number: 115
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_116:
+  road_number: 116
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_117:
+  road_number: 117
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_118:
+  road_number: 118
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_119:
+  road_number: 119
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_120:
+  road_number: 120
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_121:
+  road_number: 121
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_122:
+  road_number: 122
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_123:
+  road_number: 123
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_124:
+  road_number: 124
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_125:
+  road_number: 125
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_126:
+  road_number: 126
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_127:
+  road_number: 127
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_128:
+  road_number: 128
+  road_type: 1
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_129:
+  road_number: 129
+  road_type: 3
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_130:
+  road_number: 130
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_131:
+  road_number: 131
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_132:
+  road_number: 132
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_133:
+  road_number: 133
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_134:
+  road_number: 134
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_135:
+  road_number: 135
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_136:
+  road_number: 136
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_137:
+  road_number: 137
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_138:
+  road_number: 138
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_139:
+  road_number: 139
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_140:
+  road_number: 140
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_141:
+  road_number: 141
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_142:
+  road_number: 142
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_143:
+  road_number: 143
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_144:
+  road_number: 144
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_145:
+  road_number: 145
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_146:
+  road_number: 146
+  road_type: 2
+  action: 2
+  speed_limit: 45
+  distance: 0
+#
+road_147:
+  road_number: 147
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_148:
+  road_number: 148
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_149:
+  road_number: 149
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_150:
+  road_number: 150
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_151:
+  road_number: 151
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_152:
+  road_number: 152
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0
+#
+road_153:
+  road_number: 153
+  road_type: 1
+  action: 2
+  speed_limit: 25
+  distance: 0
+#
+road_154:
+  road_number: 154
+  road_type: 2
+  action: 1
+  speed_limit: 25
+  distance: 0
+#
+road_155:
+  road_number: 155
+  road_type: 2
+  action: 3
+  speed_limit: 25
+  distance: 0

@@ -1,0 +1,19 @@
+<launch>
+	<arg name="toler" default="0.6" />
+      	<arg name="height_toler" default="0.5" />
+      	<arg name="z_diff_toler" default="0.5" />
+      	<arg name="max_size" default="10000" />
+      	<arg name="min_size" default="100"  />
+	<arg name="project" default="pharos_perception"/>
+
+	<node pkg="$(arg project)" name="$(arg project)_lidar_obstacle_cluster" type="$(arg project)_lidar_obstacle_cluster" output="screen">
+      	<param name="subObstacle" value="/lidar_pcl/obstacle" />
+      	<param name="toler" value="$(arg toler)" />
+      	<param name="height_toler" value="$(arg height_toler)" />
+      	<param name="z_diff_toler" value="$(arg z_diff_toler)" />
+      	<param name="max_size" value="$(arg max_size)" />
+      	<param name="min_size" value="$(arg min_size)"  />                                       <!-- highway:30 uphill: 100-->
+      	<param name="pubcluster" value="/lidar_pcl/cluster" />						<!-- [PHAROS PathPlanner] FIX name for Preliminaries-->
+	</node>
+
+</launch>

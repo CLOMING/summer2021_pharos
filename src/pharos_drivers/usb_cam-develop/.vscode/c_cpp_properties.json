@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/jun/pt_ws/devel/include",
+                "/opt/ros/melodic/include",
+                "/home/jun/pt_ws/src/pharos_drivers/cereal_port/include",
+                "/home/jun/pt_ws/src/pharos_drivers/gps_umd/gps_common/include",
+                "/home/jun/pt_ws/src/pharos_drivers/laser_geometry2/include",
+                "/home/jun/pt_ws/src/pharos_drivers/novatel_gps_driver-master/novatel_gps_driver/include",
+                "/home/jun/pt_ws/src/pharos/pharos_behavior_planner/include",
+                "/home/jun/pt_ws/src/pharos/pharos_localization/include",
+                "/home/jun/pt_ws/src/pharos/pharos_map_server/include",
+                "/home/jun/pt_ws/src/pharos/pharos_mapping/include",
+                "/home/jun/pt_ws/src/pharos/pharos_obstacle_mapping/include",
+                "/home/jun/pt_ws/src/pharos/pharos_path_planner/include",
+                "/home/jun/pt_ws/src/pharos/pharos_road_information/include",
+                "/home/jun/pt_ws/src/pharos_tele/phaors_slave/include",
+                "/home/jun/pt_ws/src/pharos/pharos_speed_planner/include",
+                "/home/jun/pt_ws/src/pharos/pharos_tf/include",
+                "/home/jun/pt_ws/src/pharos/pharos_tracking/include",
+                "/home/jun/pt_ws/src/pharos/pharos_trajectory_observer/include",
+                "/home/jun/pt_ws/src/pharos/pharos_vehicle/include",
+                "/home/jun/pt_ws/src/pharos/pharos_vlp_tilt/include",
+                "/home/jun/pt_ws/src/pharos/pharos_waypoint_compensator/include",
+                "/home/jun/pt_ws/src/pharos_drivers/rpy_ekf/include",
+                "/home/jun/pt_ws/src/pharos_drivers/ublox/ublox-master/ublox_gps/include",
+                "/home/jun/pt_ws/src/pharos_drivers/ublox/ublox-master/ublox_msgs/include",
+                "/home/jun/pt_ws/src/pharos_drivers/ublox/ublox-master/ublox_serialization/include",
+                "/home/jun/pt_ws/src/pharos_drivers/usb_cam-develop/include",
+                "/home/jun/pt_ws/src/pharos_drivers/velodyne-master/velodyne_driver/include",
+                "/home/jun/pt_ws/src/pharos_drivers/velodyne-master/velodyne_laserscan/include",
+                "/home/jun/pt_ws/src/pharos_drivers/velodyne-master/velodyne_pointcloud/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

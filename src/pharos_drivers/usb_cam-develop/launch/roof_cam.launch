@@ -1,0 +1,104 @@
+<!-- v4l2-ctl -l -->
+<launch>
+  <arg name="portF" default="0" />
+  <arg name="portL" default="4" />
+  <arg name="portR" default="8" />
+
+  <arg name="fhd_width" default="1920" />
+  <arg name="fhd_height" default="1080" />
+
+  <arg name="uhd_width" default="3840" />
+  <arg name="uhd_height" default="2160" />
+
+  <arg name="width" default="$(arg fhd_width)" /><!-- 640 -->
+  <arg name="height" default="$(arg fhd_height)" /><!-- 360 -->
+  <arg name="fps" default="60" />
+  <arg name="format" default="mjpeg" /><!-- yuyv -->
+
+  <arg name="brightness" default="128" /><!-- 0 ~ 255 -->
+  <arg name="contrast" default="0" />
+  <arg name="saturation" default="128" />
+  <arg name="sharpness" default="128" />
+
+  <arg name="autofocus" default="false" />
+  <arg name="focus" default="0" />
+  <arg name="autoexposure" default="true" />
+  <arg name="exposure" default="3" />
+  <arg name="gain" default="0" />
+  <arg name="autowhitebalance" default="true" />
+  <arg name="whitebalance" default="5000" />
+
+  <node name="front_cam" pkg="usb_cam" type="usb_cam_node" output="screen" >
+    <param name="video_device" value="$(arg portF)" />
+    <param name="camera_frame_id" value="front_cam" />
+    <param name="camera_name" value="front_cam" />
+    <param name="io_method" value="mmap"/>
+
+    <param name="image_width" value="$(arg width)" />
+    <param name="image_height" value="$(arg height)" />
+    <param name="framerate" value="$(arg fps)" />
+    <param name="pixel_format" value="$(arg format)" />
+
+    <param name="brightness" value="$(arg brightness)"/>
+    <param name="contrast" value="$(arg contrast)"/>
+    <param name="saturation" value="$(arg saturation)"/>
+    <param name="sharpness" value="$(arg sharpness)"/>
+    <param name="autofocus" value="$(arg autofocus)"/>
+    <param name="focus" value="$(arg focus)"/>
+    <param name="autoexposure" value="$(arg autoexposure)"/>
+    <param name="exposure" value="$(arg exposure)"/>
+    <param name="gain" value="$(arg gain)"/>
+    <param name="auto_white_balance" value="$(arg autowhitebalance)"/>
+    <param name="white_balance" value="$(arg whitebalance)"/>
+  </node>
+
+  <node name="left_cam" pkg="usb_cam" type="usb_cam_node" output="screen" >
+    <param name="video_device" value="/dev/video$(arg portL)" />
+    <param name="camera_frame_id" value="left_cam" />
+    <param name="camera_name" value="left_cam" />
+    <param name="io_method" value="mmap"/>
+
+    <param name="image_width" value="$(arg width)" />
+    <param name="image_height" value="$(arg height)" />
+    <param name="framerate" value="$(arg fps)" />
+    <param name="pixel_format" value="$(arg format)" />
+
+    <param name="brightness" value="$(arg brightness)"/>
+    <param name="contrast" value="$(arg contrast)"/>
+    <param name="saturation" value="$(arg saturation)"/>
+    <param name="sharpness" value="$(arg sharpness)"/>
+    <param name="autofocus" value="$(arg autofocus)"/>
+    <param name="focus" value="$(arg focus)"/>
+    <param name="autoexposure" value="$(arg autoexposure)"/>
+    <param name="exposure" value="$(arg exposure)"/>
+    <param name="gain" value="$(arg gain)"/>
+    <param name="auto_white_balance" value="$(arg autowhitebalance)"/>
+    <param name="white_balance" value="$(arg whitebalance)"/>
+  </node>
+
+  <node name="right_cam" pkg="usb_cam" type="usb_cam_node" output="screen" >
+    <param name="video_device" value="/dev/video$(arg portR)" />
+    <param name="camera_frame_id" value="right_cam" />
+    <param name="camera_name" value="right_cam" />
+    <param name="io_method" value="mmap"/>
+
+    <param name="image_width" value="$(arg width)" />
+    <param name="image_height" value="$(arg height)" />
+    <param name="framerate" value="$(arg fps)" />
+    <param name="pixel_format" value="$(arg format)" />
+
+    <param name="brightness" value="$(arg brightness)"/>
+    <param name="contrast" value="$(arg contrast)"/>
+    <param name="saturation" value="$(arg saturation)"/>
+    <param name="sharpness" value="$(arg sharpness)"/>
+    <param name="autofocus" value="$(arg autofocus)"/>
+    <param name="focus" value="$(arg focus)"/>
+    <param name="autoexposure" value="$(arg autoexposure)"/>
+    <param name="exposure" value="$(arg exposure)"/>
+    <param name="gain" value="$(arg gain)"/>
+    <param name="auto_white_balance" value="$(arg autowhitebalance)"/>
+    <param name="white_balance" value="$(arg whitebalance)"/>
+  </node>
+
+  <!-- <include file="$(find image_proc)/launch/image_proc.launch" /> -->
+</launch>
