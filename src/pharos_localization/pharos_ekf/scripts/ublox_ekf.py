@@ -93,7 +93,7 @@ class RosGpsEkf:
     # initialize variables
         self.x_meas, self.y_meas, self.theta_meas = [0.0] * 3
         # self.stop_x, self.stop_y, self.x_bias, self.y_bias = [0.0] * 4
-        self.last_time = rospy.get_rostime()
+        #self.last_time = rospy.get_rostime()
         self.filter_initialized = False
         self.old_gps = np.mat([0, 0, 0, 0]).T
         self.new_gps = np.mat([0, 0, 0, 0]).T
@@ -128,7 +128,7 @@ class RosGpsEkf:
         self.use_const_ratio = True
         self.stear_const = 13.4
         self.alpha_gain = 1
-        self.vel_gain = 0.6
+        self.vel_gain = 1.0
         self.theta_gain = 0.7
         self.cov_a = 0.2
 
@@ -139,6 +139,18 @@ class RosGpsEkf:
 
         self.Brake_Active = 1
         self.Brake_Cnt = 0
+
+        self.last_time_gps = rospy.get_rostime()
+        self.last_time_vehicle = rospy.get_rostime() 
+        self.veh_cnt = 0
+        self.rpy_cnt = 0
+        self.old_time = rospy.get_rostime()
+        self.new_time = rospy.get_rostime()
+
+        self.current_gps_time = rospy.get_rostime()
+        self.current_vehilcle_time = rospy.get_rostime()
+        self.gps_cycle = 0
+        self.vehicle_cycle = 0
 
         print('init')
 
@@ -158,7 +170,7 @@ class RosGpsEkf:
         else:
             print("use wheel angle")
             theta = theta + beta
-        print("dt:", dt)
+        #print("dt:", dt)
         print("beta:", beta)
         print("yaw_rate*dt", self.yaw_rate*dt)
 
@@ -235,6 +247,13 @@ class RosGpsEkf:
 
     def gps_odom_callback(self, msg):
 
+        # To know when it runs
+        gps_odom_time = time.gmtime((rospy.Time.now()).to_sec())
+        print("############################################# \n \n \n gps_odom_CB : ",gps_odom_time.tm_year,'-',gps_odom_time.tm_mon,'-',gps_odom_time.tm_mday,'-',gps_odom_time.tm_hour,':',gps_odom_time.tm_min,':',gps_odom_time.tm_sec)
+        
+        print("real time : ",(rospy.Time.now()).to_sec())
+        print("\n bag time : ", (msg.header.stamp).to_sec())
+
         self.vscount = 0;
 
         self.covariance = msg.pose.covariance
@@ -242,6 +261,7 @@ class RosGpsEkf:
         euler = tf.transformations.euler_from_quaternion((msg.pose.pose.orientation.x, msg.pose.pose.orientation.y,
                                                           msg.pose.pose.orientation.z, msg.pose.pose.orientation.w))
         print(euler[2])
+
         if not self.filter_initialized:
             self.ekf_reset()
 
@@ -265,7 +285,14 @@ class RosGpsEkf:
 
             self.filter_initialized = True
             self.last_time = rospy.get_rostime()
+
+            self.previous_callback_time = msg.header.stamp
+            self.last_bag_gps_time = msg.header.stamp
+            self.last_bag_vehicle_time = msg.header.stamp
+            self.bag_gps_time = msg.header.stamp
+            self.bag_vehilcle_time = msg.header.stamp
         else:
+
             new_gps = np.mat([msg.pose.pose.position.x,
                               msg.pose.pose.position.y,
                               euler[2],
@@ -295,13 +322,49 @@ class RosGpsEkf:
             # print("%.4f"%self.Q[0,0],"%.4f"%self.Q[1,1],"%.4f"%self.Q[2,2])
             # print("%.4f"%self.R[0,0],"%.4f"%self.R[1,1],"%.2f"%self.R[2,2])
 
-            if self.time_state:
-                dt = (self.time4bagplay-self.last_time).to_sec()
-            else:
-                dt = (rospy.Time.now()-self.last_time).to_sec()
+            #if self.time_state:
+            #    dt = (self.time4bagplay-self.last_time).to_sec()
+            #else:
+            #    dt = (rospy.Time.now()-self.last_time).to_sec()
 
-            if dt < 0.005 or dt > 0.15:
-                dt = 0.01;
+            #if dt < 0.005 or dt > 0.15:
+            #    dt = 0.01;
+
+            if self.time_state:
+
+                print("time_state : ", self.time_state)
+                self.current_gps_time = rospy.Time.now()
+                self.bag_gps_time = msg.header.stamp
+
+                print("bag_gps_time : ", (self.bag_gps_time).to_sec())
+
+                dt = (self.bag_gps_time - self.previous_callback_time).to_sec()
+
+                print("previous_callback_time : ", (self.previous_callback_time).to_sec())
+
+                print("dt between current CB & previous CB : " , dt)
+
+                # to calculate time step of gps_odom_callback and velocity of gps
+                dt_gps = (self.bag_gps_time - self.last_bag_gps_time).to_sec()
+
+            else:
+                print("time_state : ", self.time_state)
+
+                # to calculate time step of current and previous callback
+                self.new_time = rospy.Time.now()
+                dt = (self.new_time - self.old_time).to_sec()   
+                print("dt between current CB & previous CB : " , dt)
+                
+                if dt > 0.02:
+                    dt = 0.01
+                
+                # to calculate time step of gps_odom_callback and velocity of gps    
+                dt_gps = (rospy.Time.now() - self.last_time_gps).to_sec()
+                
+            
+            print("gps_odom_callback_dt : ", dt_gps)
+            print("gps_velocity : ", math.sqrt(math.pow((self.new_gps[0,0]-self.old_gps[0,0])/dt_gps,2) + math.pow((self.new_gps[1,0]-self.old_gps[1,0])/dt_gps,2)))
+
 
             K = self.ekf_predict(self.old_vel, self.old_alpha, dt)
 
@@ -327,10 +390,27 @@ class RosGpsEkf:
 
             # print(self.X[2], ' estimate')
 
+            #if self.time_state:
+            #    self.last_time = self.time4bagplay
+            #else:
+            #    self.last_time = rospy.Time.now()
+
+
             if self.time_state:
-                self.last_time = self.time4bagplay
+                # variables that two functions(gps_odom_callback, vehicle_state_callback) keep updating at their turn
+                self.previous_callback_time = self.bag_gps_time
+        
+                # variable that only gps_odom_callback can update
+                # using this variable help us to know how often gps_odom_callback is made at each time
+                self.last_bag_gps_time = self.bag_gps_time
+
             else:
-                self.last_time = rospy.Time.now()
+                # variables that two functions(gps_odom_callback, vehicle_state_callback) keep updating at their turn
+                self.old_time = self.new_time
+
+                # variable that only gps_odom_callback can update
+                # using this variable help us to know how often gps_odom_callback is made at each time
+                self.last_time_gps = rospy.Time.now()                
 
         self.publish_odom()
 
@@ -338,12 +418,30 @@ class RosGpsEkf:
         self.old_gps = self.new_gps
         self.new_gps = new_gps
 
+
+        # to see how many times each function(rpy_rate_callback, vehicle_state_callback) is called during a cycle of gps_odom_callback
+        print("rpy_cnt : " , self.rpy_cnt)
+        print("veh_cnt : " , self.veh_cnt, "\n \n \n #############################################")
+        self.veh_cnt = 0
+        self.rpy_cnt = 0
+
+
     def rpy_rate_callback(self, msg):
+
+        # To know when it runs
+        rpy_time = time.gmtime((rospy.Time.now()).to_sec())
+        print("rpy_rate_CB : ",rpy_time.tm_year,'-',rpy_time.tm_mon,'-',rpy_time.tm_mday,'-',rpy_time.tm_hour,':',rpy_time.tm_min,':',rpy_time.tm_sec)
         self.imu_init = True
         self.yaw_rate = msg.angular_velocity.z
+        self.rpy_cnt += 1
 
     def vehicle_state_callback(self, msg):
-        self.time4bagplay = msg.header.stamp
+
+        # To know when it runs
+        vehicle_time = time.gmtime((rospy.Time.now()).to_sec())
+        print("vehicle_state_CB : ",vehicle_time.tm_year,'-',vehicle_time.tm_mon,'-',vehicle_time.tm_mday,'-',vehicle_time.tm_hour,':',vehicle_time.tm_min,':',vehicle_time.tm_sec)
+        
+        #self.time4bagplay = msg.header.stamp
 
         self.Brake_Active = msg.GWAY3.Brake_Active
 
@@ -388,8 +486,47 @@ class RosGpsEkf:
 
         self.vel = new_vel
 
-        dt = (msg.header.stamp - self.last_time).to_sec()
+        #dt = (msg.header.stamp - self.last_time).to_sec()
         # print("veh_dt : ", dt)
+
+        if self.time_state:
+            print("time_state : ", self.time_state)
+
+            self.current_vehicle_time = rospy.Time.now()
+            self.bag_vehicle_time = self.bag_gps_time + (self.current_vehicle_time - self.current_gps_time)
+
+            if (self.current_vehicle_time - self.current_gps_time).to_sec() > 0.2:
+                self.bag_vehicle_time = self.last_bag_vehicle_time + self.vehicle_cycle
+
+            print("bag_vehicle_time : ", (self.bag_vehicle_time).to_sec())
+
+            dt = (self.bag_vehicle_time - self.previous_callback_time).to_sec()
+            print("dt between current CB & previous CB : " , dt)
+
+            # to calculate time step of vehicle_state_callback
+            dt_vehicle = (self.bag_vehicle_time - self.last_bag_vehicle_time).to_sec()
+            self.vehicle_cycle = (self.bag_vehicle_time - self.last_bag_vehicle_time)
+            print("last_bag_vehicle_time : ", (self.last_bag_vehicle_time).to_sec())
+            print("vehicle_state_callback_dt : ", dt_vehicle)
+
+        else:
+
+            print("time_state : ", self.time_state)
+
+            # to calculate time step of current and previous callback
+            self.new_time = rospy.Time.now()
+            dt = (self.new_time - self.old_time).to_sec()
+            print("dt between current CB & previous CB : " , dt)
+
+            if dt > 0.02:
+                dt = 0.01
+
+            # to calculate time step of vehicle_state_callback
+            dt_vehicle = (rospy.Time.now() - self.last_time_vehicle).to_sec()
+            print("vehicle_state_callback_dt : ", dt_vehicle)
+
+        print("vehicle_velocity : " , new_vel)
+
 
         # R meas
         if self.heading_init == True:
@@ -424,8 +561,8 @@ class RosGpsEkf:
         else:
             self.Q = copy.deepcopy(self.Q_init)
 
-        if dt < 0.005 or dt > 0.15:
-            dt = 0.01;
+        #if dt < 0.005 or dt > 0.15:
+        #    dt = 0.01;
 
         K = self.ekf_predict(new_vel, new_alpha, dt)
         # self.vehicle_state_stack(new_vel, new_alpha, dt, msg.header.stamp)
@@ -435,12 +572,21 @@ class RosGpsEkf:
         # if (self.vscount%6) == 0:
         #     self.publish_odom()
 
+
+        if self.time_state:
+            self.previous_callback_time = self.bag_vehicle_time
+            self.last_bag_vehicle_time = self.bag_vehicle_time 
+        else:
+            self.old_time = self.new_time
+            self.last_time_vehicle = rospy.Time.now()
+        
         self.publish_odom()
 
         # self.old_X = self.X
         self.old_vel = new_vel
         self.old_alpha = new_alpha
-        self.last_time = msg.header.stamp
+        #self.last_time = msg.header.stamp
+        self.veh_cnt += 1
 
     # def motion_command_callback(self, msg):
     #     self.inclination = msg.inclination
@@ -453,7 +599,13 @@ class RosGpsEkf:
 
     def publish_odom(self):
         msg = Odometry()
-        msg.header.stamp = self.last_time
+        
+        if self.time_state:
+            msg.header.stamp = self.previous_callback_time
+        
+        else:
+            msg.header.stamp = self.new_time
+
         msg.header.frame_id = self.frame_id
         msg.child_frame_id = self.child_frame_id
 
@@ -490,7 +642,7 @@ if __name__ == '__main__':
     gps_ekf = RosGpsEkf()
 
 
-    gps_ekf.time_state = rospy.get_param('~bagfile', False)
+    gps_ekf.time_state = rospy.get_param('~bagfile', True)
     gps_ekf.frame_id = rospy.get_param('~frame_id', 'odom')
     gps_ekf.child_frame_id = rospy.get_param('~child_frame_id', 'ekf')
     gps_odom = rospy.get_param('~gps_odom_topic', '/odom/ublox')
