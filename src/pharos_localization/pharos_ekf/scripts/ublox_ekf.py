@@ -247,6 +247,7 @@ class RosGpsEkf:
 
     def gps_odom_callback(self, msg):
 
+        print("gps_odom_callback_start : ", msg.header.stamp)
         # To know when it runs
         gps_odom_time = time.gmtime((rospy.Time.now()).to_sec())
         print("############################################# \n \n \n gps_odom_CB : ",gps_odom_time.tm_year,'-',gps_odom_time.tm_mon,'-',gps_odom_time.tm_mday,'-',gps_odom_time.tm_hour,':',gps_odom_time.tm_min,':',gps_odom_time.tm_sec)
@@ -355,8 +356,10 @@ class RosGpsEkf:
                 dt = (self.new_time - self.old_time).to_sec()   
                 print("dt between current CB & previous CB : " , dt)
                 
-                if dt > 0.02:
-                    dt = 0.01
+                # it works without restriction as it is for real-time running
+                # Be sure that if time_state is False
+                #if dt > 0.02:
+                #    dt = 0.01
                 
                 # to calculate time step of gps_odom_callback and velocity of gps    
                 dt_gps = (rospy.Time.now() - self.last_time_gps).to_sec()
@@ -413,6 +416,8 @@ class RosGpsEkf:
                 self.last_time_gps = rospy.Time.now()                
 
         self.publish_odom()
+
+        print("time after publish : ", msg.header.stamp)
 
         # self.old_X = self.X
         self.old_gps = self.new_gps
@@ -518,8 +523,8 @@ class RosGpsEkf:
             dt = (self.new_time - self.old_time).to_sec()
             print("dt between current CB & previous CB : " , dt)
 
-            if dt > 0.02:
-                dt = 0.01
+            #if dt > 0.02:
+            #    dt = 0.01
 
             # to calculate time step of vehicle_state_callback
             dt_vehicle = (rospy.Time.now() - self.last_time_vehicle).to_sec()
